@@ -35,7 +35,7 @@ def random_transaction():
     """
     :return: Totally random transaction involving any number of items in database
     """
-    return helper(0, 5)
+    return helper(0, 7)
 
 
 def random_long_transaction():

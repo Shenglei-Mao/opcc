@@ -33,3 +33,5 @@ val = ((1, 12), (2, 12))
 cursor.executemany(sql, val)
 # cursor.execute(sql, val)
 # cursor.execute(sql)
+data = [0 for x in range(15)]
+print(data)

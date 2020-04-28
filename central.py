@@ -21,6 +21,7 @@ import grpc_dir.update_db_pb2_grpc as update_db_pb2_grpc
 import socket
 import port
 
+data = [0 for x in range(15)]
 channel_0 = grpc.insecure_channel('localhost:50052')
 stub_0 = update_db_pb2_grpc.UpdateDBStub(channel_0)
 # channel_1 = grpc.insecure_channel('localhost:50053')
@@ -51,23 +52,41 @@ rank_condition = threading.Condition()
 # current_rank = 0
 
 
-
 def log_rejected_transaction_global(trans):
     f = open(".\\log\\rejected_transaction_central_at_global_validation_phase.txt", "a")
     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n")
     f.close()
 
 
+# def log_rejected_transaction(trans, trans_type=""):
+#     f = open(".\\log\\rejected_transaction_central_for_transactions_init_at_central_at_either_phase.txt", "a")
+#     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n")
+#     f.close()
+#
+#
+# def log_committed_transaction(trans, trans_type="", read_val=None):
+#     f = open(".\\log\\committed_transaction_central.txt", "a")
+#     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n" + "read_value:" + str(read_val) + "\n")
+#     f.close()
+
+
 def log_rejected_transaction(trans, trans_type=""):
-    f = open(".\\log\\rejected_transaction_central_for_transactions_init_at_central_at_either_phase.txt", "a")
+    f = open(".\\log\\rejected_transaction_central.txt", "a")
     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n")
     f.close()
 
 
 def log_committed_transaction(trans, trans_type="", read_val=None):
     f = open(".\\log\\committed_transaction_central.txt", "a")
-    f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n" + "read_value:" + str(read_val) + "\n")
+    f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n" + "read_value:" + str(
+        read_val) + "\n" + "db snap shot: " + str(data) + "\n")
     f.close()
+
+
+# def log_db_snapshot(trans):
+#     f = open(".\\log\\db_snapshot_site0.txt", "a")
+#     f.write(str(trans) + "\n" + str(data) + "\n")
+#     f.close()
 
 
 def validate_two_trans(cur_trans, prev_trans):
@@ -79,17 +98,22 @@ def validate_two_trans(cur_trans, prev_trans):
         return False
     return True
 
+
 def update_db_helper(trans):
     """
     write to db
     """
     write_set = trans[3]
-    sql = "UPDATE data Set value = %s WHERE name = %s"
-    val = write_set
-    cursor.executemany(sql, val)
+    # sql = "UPDATE data Set value = %s WHERE name = %s"
+    # val = write_set
+    # cursor.executemany(sql, val)
     # db.commit()
+    for item, value in write_set:
+        data[item] = value
+    return
 
-def update_db(trans, assigned_rank):
+
+def update_db(trans, assigned_rank, read_val, trans_type):
     # global rank
     # rank_condition.acquire()
     # current_rank = rank
@@ -98,6 +122,7 @@ def update_db(trans, assigned_rank):
     #     current_rank = rank
     # rank += 1
     update_db_helper(trans)
+    log_committed_transaction(trans, trans_type, read_val)
     # rank_condition.notifyAll()
     # rank_condition.release()
 
@@ -127,7 +152,7 @@ def local_validation(trans):
     return True
 
 
-def global_validation(trans, site):
+def global_validation(trans, site, trans_type="", read_val=None):
     """
     assume clock is well synced, called central site method for validate using grpc
     validate against all the global committed transaction & central site's semi-committed transaction
@@ -140,13 +165,13 @@ def global_validation(trans, site):
         rank_lock.acquire()
         assigned_rank = rank
         rank += 1
-        update_db(trans, -1)
+        update_db(trans, -1, read_val, trans_type)
         rank_lock.release()
         for i in range(3):
             if i != site and stubs[i] != -1:
                 # update_db(trans, rank) #rpc call
                 stubs[i].UpdateDB(update_db_pb2.UpdateTransaction(transaction=pickle.dumps(trans), rank=assigned_rank))
-        log_committed_transaction(trans, "remote transaction")
+        # log_committed_transaction(trans, "from site: " + str(site))
         return global_validation_pb2.Result(result=True, rank=assigned_rank)
 
 
@@ -155,23 +180,31 @@ class GlobalValidationServicer(global_validation_pb2_grpc.GlobalValidationServic
     def GlobalValidate(self, request, context):
         trans = pickle.loads(request.transaction)
         site = request.init_site
-        return global_validation(trans, site)
+        return global_validation(trans, site, "transaction from " + str(site))
 
 
-def try_commit(trans):
+def try_commit(trans, read_val, trans_type=""):
     trans_tuple = tuple(trans)
     if not local_validation(trans):
         return False
     semi_committed_transaction_lock.acquire()
     semi_committed_transactions.add(trans_tuple)
     semi_committed_transaction_lock.release()
-    global_result = global_validation(trans, -1)
+    global_result = global_validation(trans, -1, trans_type, read_val)
     semi_committed_transaction_lock.acquire()
     semi_committed_transactions.remove(trans_tuple)
     semi_committed_transaction_lock.release()
-    if global_result:
-        update_db(trans, global_result.rank)
+    # if global_result:
+    #     update_db(trans, global_result.rank, read_val, trans_type)
     return global_result.result
+
+
+def read_data(trans):
+    read_set = trans[2]
+    read_val = []
+    for i in read_set:
+        read_val.append(data[i])
+    return read_val
 
 
 def process_long_transaction():
@@ -179,19 +212,20 @@ def process_long_transaction():
     threading.Timer(2, process_long_transaction).start()
     trans = transaction_gen.random_transaction()
     # manually add compute time of 1s for short transaction
+    read_val = read_data(trans)
     time.sleep(3)  # TODO try random here
-    result = try_commit(trans)
+    result = try_commit(trans, read_val, "long transaction from central site")
     if not result:
         rejected_transaction_lock.acquire()
         bisect.insort(rejected_transactions, (1, trans))
         rejected_transaction_lock.release()
-        log_rejected_transaction(trans, "long transaction")
+        # log_rejected_transaction(trans, "long transaction")
     else:
         committed_transaction_lock.acquire()
         trans[1] = datetime.now(timezone.utc)
         committed_transactions.append(trans)
         committed_transaction_lock.release()
-        log_committed_transaction(trans, "long transaction")
+        # log_committed_transaction(trans, "long transaction")
     return result
 
 
@@ -199,44 +233,47 @@ def process_short_transaction():
     # Timer Ahead, the incoming transactions just come regardless of your system loading
     threading.Timer(2, process_short_transaction).start()
     trans = transaction_gen.random_transaction()
+    read_val = read_data(trans)
     # TODO add read and write
+    read_val = read_data(trans)
     # manually add compute time of 1s for short transaction
     time.sleep(1)  # TODO try random here
-    result = try_commit(trans)
+    result = try_commit(trans, read_val, "short transaction from central site")
     if not result:
         rejected_transaction_lock.acquire()
         bisect.insort(rejected_transactions, (1, trans))
         rejected_transaction_lock.release()
-        log_rejected_transaction(trans, "short transaction")
+        # log_rejected_transaction(trans, "short transaction")
     else:
         committed_transaction_lock.acquire()
         trans[1] = datetime.now(timezone.utc)
         committed_transactions.append(trans)
         committed_transaction_lock.release()
-        log_committed_transaction(trans, "short transaction")
+        # log_committed_transaction(trans, "short transaction")
     return result
 
 
 def redo_rejected_transaction():
     if rejected_transactions:
         rejected_transaction_lock.acquire()
-        unlucky_trans = rejected_transactions.pop()
+        unlucky_trans = rejected_transactions.pop(0)
         rejected_transaction_lock.release()
         fail_time = unlucky_trans[0]
         trans = unlucky_trans[1]
         trans[0] = datetime.now(timezone.utc)
-        result = try_commit(trans)
+        read_val = read_data(trans)
+        result = try_commit(trans, read_val, "redo transaction of central site")
         if not result:
             rejected_transaction_lock.acquire()
             bisect.insort(rejected_transactions, (fail_time + 1, trans))
             rejected_transaction_lock.release()
-            log_rejected_transaction(trans)
+            # log_rejected_transaction(trans)
         else:
             committed_transaction_lock.acquire()
             trans[1] = datetime.now(timezone.utc)
             committed_transactions.append(trans)
             committed_transaction_lock.release()
-            log_committed_transaction(trans, "redo transaction")
+            # log_committed_transaction(trans, "redo transaction")
     # Timer Behind, always have only one thread solving the rejected transaction
     # if too much failed transaction in the fail log, put it ahead to have more
     # thread solving the rejected transactions
@@ -264,8 +301,6 @@ def init():
     process_long_transaction()
     process_short_transaction()
     redo_rejected_transaction()
-
-
 
 
 init()
