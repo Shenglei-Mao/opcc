@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+service UpdateDB{
+  rpc UpdateDB(UpdateTransaction) returns(Empty) {}
+}
+
+message UpdateTransaction {
+  bytes transaction = 1;
+  int32 rank = 2;
+}
+
+message Empty {
+
+}

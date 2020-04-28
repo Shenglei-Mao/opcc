@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+service GlobalValidation{
+  rpc GlobalValidate(Transaction) returns(Result) {}
+}
+
+message Transaction {
+  bytes transaction = 1;
+  int32 init_site = 2;
+}
+
+message Result {
+  bool result = 1;
+  int32 rank = 2;
+}
