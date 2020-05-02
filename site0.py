@@ -146,8 +146,8 @@ def try_commit(trans, read_val, trans_type=""): #TODO add log here
     semi_committed_transaction_lock.acquire()
     semi_committed_transactions.remove(trans_tuple)
     semi_committed_transaction_lock.release()
-    if global_result:
-        update_db(trans, global_result.rank, read_val, trans_type)
+    # if global_result:
+    #     update_db(trans, global_result.rank, read_val, trans_type)
     return global_result.result
 
 
@@ -166,6 +166,7 @@ def process_long_transaction():
     # manually add compute time of 1s for short transaction
     read_val = read_data(trans)
     time.sleep(3)
+    trans[2] = (trans[2], tuple(read_val), "long transaction site0")
     result = try_commit(trans, read_val, "long_transaction")
     if not result:
         rejected_transaction_lock.acquire()
@@ -188,6 +189,7 @@ def process_short_transaction():
     read_val = read_data(trans)
     # manually add compute time of 1s for short transaction
     time.sleep(1)
+    trans[2] = (trans[2], tuple(read_val), "short transaction site0")
     result = try_commit(trans, read_val, "short_transaction")
     if not result:
         rejected_transaction_lock.acquire()
@@ -212,6 +214,7 @@ def redo_rejected_transaction():
         trans = unlucky_trans[1]
         trans[0] = datetime.now(timezone.utc)
         read_val = read_data(trans)
+        trans[2] = (trans[2], tuple(read_val), "redo transaction site0")
         result = try_commit(trans, read_val, "redo transaction")
         if not result:
             rejected_transaction_lock.acquire()
@@ -257,7 +260,7 @@ def init():
     """
     thread = threading.Thread(target=serve)
     thread.start()
-    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052)):
+    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052) and port.isOpen("localhost", 50053) and port.isOpen("localhost", 50054)):
         print("port not open!")
     process_long_transaction()
     process_short_transaction()

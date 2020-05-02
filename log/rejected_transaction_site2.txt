@@ -1,0 +1,1358 @@
+2020-04-28 21:15:37.807580+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 34, 806286, tzinfo=datetime.timezone.utc), -1, (4, 10, 7), ((5, 29), (8, 46), (6, 99), (3, 49))]
+long transaction
+2020-04-28 21:15:38.823407+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 37, 821545, tzinfo=datetime.timezone.utc), -1, (7, 9, 12, 14, 0, 3, 10), ((1, 29), (6, 88), (0, 28))]
+short transaction
+2020-04-28 21:15:39.808537+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 36, 806745, tzinfo=datetime.timezone.utc), -1, (11, 3, 7), ((14, 60), (6, 8))]
+long transaction
+2020-04-28 21:15:43.808895+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 40, 807909, tzinfo=datetime.timezone.utc), -1, (8, 3, 13, 12, 10, 0, 6), ((9, 94), (12, 82), (14, 60), (1, 57), (4, 61), (0, 22))]
+long transaction
+2020-04-28 21:15:44.828364+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 43, 826845, tzinfo=datetime.timezone.utc), -1, (7, 6, 13, 12, 1), ((13, 90), (14, 73), (6, 96), (2, 71), (9, 36), (5, 30), (3, 12))]
+short transaction
+2020-04-28 21:15:45.810274+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 42, 808474, tzinfo=datetime.timezone.utc), -1, (10, 0, 7), ((12, 49), (14, 85), (1, 33), (11, 26), (3, 3), (6, 70))]
+long transaction
+2020-04-28 21:15:46.828297+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 45, 826236, tzinfo=datetime.timezone.utc), -1, (12, 5, 4, 9, 10, 3, 13), ((4, 57), (3, 53))]
+short transaction
+2020-04-28 21:15:49.811369+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 46, 809533, tzinfo=datetime.timezone.utc), -1, (3,), ((4, 32), (9, 3), (14, 71), (6, 2))]
+long transaction
+2020-04-28 21:15:50.828171+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 49, 826342, tzinfo=datetime.timezone.utc), -1, (7, 9, 1, 2, 14), ((3, 97), (4, 34))]
+short transaction
+2020-04-28 21:15:51.811926+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 48, 809781, tzinfo=datetime.timezone.utc), -1, (9, 2), ((10, 81), (4, 24), (14, 17))]
+long transaction
+2020-04-28 21:15:52.828756+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 51, 826890, tzinfo=datetime.timezone.utc), -1, (5, 2, 9, 8, 10), ((2, 77), (6, 46))]
+short transaction
+2020-04-28 21:15:53.811116+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 50, 810244, tzinfo=datetime.timezone.utc), -1, (13, 3, 8, 5), ((2, 10), (11, 58))]
+long transaction
+2020-04-28 21:15:54.830459+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 53, 828069, tzinfo=datetime.timezone.utc), -1, (2, 7, 10, 1, 9), ((7, 84),)]
+short transaction
+2020-04-28 21:15:55.813344+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 52, 810793, tzinfo=datetime.timezone.utc), -1, (12, 4, 14, 0, 8, 7), ((14, 14), (13, 32), (12, 63), (1, 90))]
+long transaction
+2020-04-28 21:15:57.813555+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 54, 811511, tzinfo=datetime.timezone.utc), -1, (6,), ((11, 83), (3, 38))]
+long transaction
+2020-04-28 21:15:58.830357+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 57, 828540, tzinfo=datetime.timezone.utc), -1, (9, 7, 11), ((7, 50), (14, 36), (3, 29), (0, 92))]
+short transaction
+2020-04-28 21:15:59.813243+00:00 [datetime.datetime(2020, 4, 28, 21, 15, 56, 811669, tzinfo=datetime.timezone.utc), -1, (9, 13, 5), ((5, 65), (7, 18))]
+long transaction
+2020-04-28 21:16:03.814906+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 0, 813704, tzinfo=datetime.timezone.utc), -1, (13, 10, 4, 6), ((14, 16), (13, 15), (1, 49), (10, 26), (8, 90), (4, 34), (6, 53))]
+long transaction
+2020-04-28 21:16:04.831331+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 3, 829866, tzinfo=datetime.timezone.utc), -1, (4, 3, 7, 10, 5), ((2, 97), (5, 39), (9, 95), (14, 100))]
+short transaction
+2020-04-28 21:16:07.815324+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 4, 813378, tzinfo=datetime.timezone.utc), -1, (6, 5, 8), ((9, 13), (7, 2), (12, 60), (3, 16))]
+long transaction
+2020-04-28 21:16:09.815460+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 6, 813959, tzinfo=datetime.timezone.utc), -1, (7, 13, 1), ((14, 64), (13, 3), (12, 65))]
+long transaction
+2020-04-28 21:16:11.815133+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 8, 814147, tzinfo=datetime.timezone.utc), -1, (7, 10, 3), ((12, 81), (4, 74), (7, 73))]
+long transaction
+2020-04-28 21:16:12.833409+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 11, 832086, tzinfo=datetime.timezone.utc), -1, (7,), ((5, 75), (7, 86), (9, 16), (11, 98))]
+short transaction
+2020-04-28 21:16:13.816305+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 10, 814402, tzinfo=datetime.timezone.utc), -1, (1, 12, 5, 8, 11), ((8, 94), (12, 3), (1, 6), (11, 67), (5, 72), (3, 54), (13, 8))]
+long transaction
+2020-04-28 21:16:17.816344+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 14, 814876, tzinfo=datetime.timezone.utc), -1, (12, 11, 6, 9), ((12, 36), (4, 26), (11, 36), (9, 8), (14, 76), (13, 99), (2, 81))]
+long transaction
+2020-04-28 21:16:18.834757+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 17, 833299, tzinfo=datetime.timezone.utc), -1, (9, 11, 1, 5, 10, 3, 0), ((13, 31), (9, 29), (5, 78), (10, 75))]
+short transaction
+2020-04-28 21:16:19.817028+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 16, 815322, tzinfo=datetime.timezone.utc), -1, (10, 11, 12, 0), ((2, 66), (5, 100), (9, 45), (8, 10), (13, 23), (1, 91), (11, 58))]
+long transaction
+2020-04-28 21:16:23.817902+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 20, 816711, tzinfo=datetime.timezone.utc), -1, (7, 1, 3, 12), ((12, 75), (6, 71), (13, 53), (2, 60), (1, 91), (14, 77))]
+long transaction
+2020-04-28 21:16:24.836905+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 23, 834977, tzinfo=datetime.timezone.utc), -1, (5, 1, 12), ((7, 66), (6, 91), (11, 53), (4, 18))]
+short transaction
+2020-04-28 21:16:25.818311+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 22, 817302, tzinfo=datetime.timezone.utc), -1, (4, 13), ((13, 1), (6, 84))]
+long transaction
+2020-04-28 21:16:26.837044+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 25, 835267, tzinfo=datetime.timezone.utc), -1, (13, 14, 3, 12, 10, 5), ((11, 26), (10, 20), (9, 84), (0, 72))]
+short transaction
+2020-04-28 21:16:27.819574+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 24, 817956, tzinfo=datetime.timezone.utc), -1, (10, 0), ((13, 51), (11, 24), (9, 74))]
+long transaction
+2020-04-28 21:16:28.837608+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 27, 835505, tzinfo=datetime.timezone.utc), -1, (9, 4, 13, 11, 1), ((0, 12), (13, 64), (2, 84), (3, 19), (1, 31), (12, 58), (6, 3))]
+short transaction
+2020-04-28 21:16:29.819817+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 26, 818143, tzinfo=datetime.timezone.utc), -1, (4, 0), ((0, 38), (13, 12))]
+long transaction
+2020-04-28 21:16:30.838753+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 29, 835776, tzinfo=datetime.timezone.utc), -1, (8, 10), ((2, 11), (8, 98), (11, 42), (5, 92), (10, 33), (13, 84))]
+short transaction
+2020-04-28 21:16:31.820708+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 28, 818646, tzinfo=datetime.timezone.utc), -1, (2, 11, 6, 0, 4), ((13, 12), (2, 37), (9, 7), (0, 58))]
+long transaction
+2020-04-28 21:16:32.837876+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 31, 836667, tzinfo=datetime.timezone.utc), -1, (13, 12, 2, 3, 6, 14), ((6, 44),)]
+short transaction
+2020-04-28 21:16:33.821801+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 30, 818804, tzinfo=datetime.timezone.utc), -1, (13, 4, 12, 7, 2, 5), ((13, 88), (11, 64))]
+long transaction
+2020-04-28 21:16:36.840669+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 35, 837002, tzinfo=datetime.timezone.utc), -1, (8, 1, 11, 6, 9, 10, 12), ((10, 1), (4, 92), (8, 70), (3, 84), (2, 31), (12, 88), (14, 51))]
+short transaction
+2020-04-28 21:16:37.820991+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 34, 819751, tzinfo=datetime.timezone.utc), -1, (7, 12, 6, 4, 2), ((7, 20), (6, 12))]
+long transaction
+2020-04-28 21:16:38.839264+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 37, 837946, tzinfo=datetime.timezone.utc), -1, (1, 9, 6, 13), ((4, 47), (10, 96))]
+short transaction
+2020-04-28 21:16:41.823170+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 38, 821315, tzinfo=datetime.timezone.utc), -1, (1, 0, 14, 9, 11, 12), ((3, 33), (11, 65), (2, 20), (1, 19), (0, 3), (6, 38), (4, 80))]
+long transaction
+2020-04-28 21:16:42.841092+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 41, 839128, tzinfo=datetime.timezone.utc), -1, (2, 4, 0, 11, 9, 3, 14), ((0, 45), (3, 68), (7, 13), (12, 30))]
+short transaction
+2020-04-28 21:16:43.822745+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 40, 821340, tzinfo=datetime.timezone.utc), -1, (14, 1, 3, 8, 7, 6), ((0, 3),)]
+long transaction
+2020-04-28 21:16:44.843167+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 43, 839754, tzinfo=datetime.timezone.utc), -1, (6, 12, 7, 4, 8, 9), ((6, 7), (13, 58), (4, 77), (9, 80), (10, 10))]
+short transaction
+2020-04-28 21:16:45.824102+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 42, 822143, tzinfo=datetime.timezone.utc), -1, (11, 12, 8, 14, 0), ((5, 74), (14, 85), (2, 92), (6, 59), (4, 70))]
+long transaction
+2020-04-28 21:16:47.823951+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 44, 822241, tzinfo=datetime.timezone.utc), -1, (11, 5, 13, 8, 0), ((11, 84), (8, 59))]
+long transaction
+2020-04-28 21:16:49.824580+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 46, 822432, tzinfo=datetime.timezone.utc), -1, (0, 1, 6, 13), ((6, 3), (0, 46))]
+long transaction
+2020-04-28 21:16:51.824398+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 48, 822746, tzinfo=datetime.timezone.utc), -1, (0, 4), ((5, 61), (13, 95))]
+long transaction
+2020-04-28 21:16:52.845771+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 51, 842351, tzinfo=datetime.timezone.utc), -1, (9, 14, 11, 10, 12, 0), ((2, 20), (10, 28), (14, 85), (3, 34), (4, 81))]
+short transaction
+2020-04-28 21:16:53.825457+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 50, 823613, tzinfo=datetime.timezone.utc), -1, (14, 10, 8, 9), ((9, 79), (2, 56), (8, 37), (12, 16), (1, 24))]
+long transaction
+2020-04-28 21:16:54.844749+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 53, 842401, tzinfo=datetime.timezone.utc), -1, (8, 14), ((5, 60), (4, 14), (7, 6), (9, 77), (8, 1), (13, 41), (14, 17))]
+short transaction
+2020-04-28 21:16:55.824883+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 52, 823829, tzinfo=datetime.timezone.utc), -1, (7, 0, 8, 10, 1, 9), ((11, 47), (2, 16), (9, 98), (3, 98))]
+long transaction
+2020-04-28 21:16:56.844912+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 55, 842835, tzinfo=datetime.timezone.utc), -1, (12, 1, 6, 4, 3, 9, 10), ((12, 50), (0, 74), (11, 22), (13, 79), (7, 29), (1, 14))]
+short transaction
+2020-04-28 21:16:59.825184+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 56, 823971, tzinfo=datetime.timezone.utc), -1, (4,), ((1, 73), (13, 56), (12, 4))]
+long transaction
+2020-04-28 21:17:00.845459+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 59, 844133, tzinfo=datetime.timezone.utc), -1, (10, 7, 1, 2, 6, 0), ((7, 6), (12, 46), (10, 29), (13, 43), (5, 96), (11, 60))]
+short transaction
+2020-04-28 21:17:01.826532+00:00 [datetime.datetime(2020, 4, 28, 21, 16, 58, 824682, tzinfo=datetime.timezone.utc), -1, (8, 14, 13, 5), ((10, 83), (6, 53), (14, 95), (7, 64), (0, 16))]
+long transaction
+2020-04-28 21:17:02.845976+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 1, 844494, tzinfo=datetime.timezone.utc), -1, (0, 3, 10, 8, 7, 5), ((4, 23), (7, 22), (12, 84))]
+short transaction
+2020-04-28 21:17:03.827354+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 0, 825509, tzinfo=datetime.timezone.utc), -1, (4, 12), ((0, 99), (9, 43), (11, 97), (6, 33), (8, 30))]
+long transaction
+2020-04-28 21:17:04.848260+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 3, 846303, tzinfo=datetime.timezone.utc), -1, (0, 1, 13, 3), ((10, 75), (7, 80), (12, 19), (1, 33))]
+short transaction
+2020-04-28 21:17:05.827032+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 2, 826027, tzinfo=datetime.timezone.utc), -1, (8,), ((12, 42),)]
+long transaction
+2020-04-28 21:17:07.829995+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 4, 826318, tzinfo=datetime.timezone.utc), -1, (4, 8, 14, 6), ((5, 63), (1, 54), (10, 65), (13, 62), (4, 64))]
+long transaction
+2020-04-28 21:17:08.849603+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 7, 847946, tzinfo=datetime.timezone.utc), -1, (2, 4, 0, 7), ((10, 86), (6, 75), (11, 58), (8, 87), (14, 44), (7, 85), (13, 55))]
+short transaction
+2020-04-28 21:17:09.827449+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 6, 826359, tzinfo=datetime.timezone.utc), -1, (14, 9, 10, 7, 3, 4, 6), ((10, 22), (5, 20), (6, 50))]
+long transaction
+2020-04-28 21:17:10.850300+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 9, 848391, tzinfo=datetime.timezone.utc), -1, (9, 11, 10, 14, 7), ((3, 76), (4, 18), (12, 2))]
+short transaction
+2020-04-28 21:17:13.829119+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 10, 827387, tzinfo=datetime.timezone.utc), -1, (12, 7), ((2, 49), (10, 37), (7, 92), (0, 24), (9, 89), (12, 29), (13, 60))]
+long transaction
+2020-04-28 21:17:14.851195+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 13, 849067, tzinfo=datetime.timezone.utc), -1, (12,), ((6, 43), (12, 75), (8, 71), (5, 100), (11, 74), (13, 4))]
+short transaction
+2020-04-28 21:17:15.829001+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 12, 827651, tzinfo=datetime.timezone.utc), -1, (13, 14, 3), ((6, 48), (9, 76), (4, 2), (1, 11), (0, 97), (8, 72))]
+long transaction
+2020-04-28 21:17:17.829865+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 14, 828249, tzinfo=datetime.timezone.utc), -1, (2, 8, 12, 1, 6), ((2, 10), (0, 94), (3, 88), (11, 29), (4, 60), (6, 28))]
+long transaction
+2020-04-28 21:17:18.854635+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 17, 852807, tzinfo=datetime.timezone.utc), -1, (0, 4, 6, 3, 5), ((5, 22), (0, 67), (8, 24), (13, 95))]
+short transaction
+2020-04-28 21:17:19.830508+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 16, 828630, tzinfo=datetime.timezone.utc), -1, (5, 11, 7, 14, 2), ((9, 93), (14, 7), (0, 60), (10, 80), (7, 66), (11, 53))]
+long transaction
+2020-04-28 21:17:20.855074+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 19, 853479, tzinfo=datetime.timezone.utc), -1, (5, 1, 2, 11), ((12, 17), (13, 94), (1, 81), (0, 68))]
+short transaction
+2020-04-28 21:17:23.831051+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 20, 829116, tzinfo=datetime.timezone.utc), -1, (14, 3), ((10, 41),)]
+long transaction
+2020-04-28 21:17:24.855668+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 23, 853989, tzinfo=datetime.timezone.utc), -1, (0, 10, 9, 8), ((5, 35), (7, 85), (4, 46), (14, 22))]
+short transaction
+2020-04-28 21:17:25.831067+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 22, 829786, tzinfo=datetime.timezone.utc), -1, (14, 7, 0), ((1, 10),)]
+long transaction
+2020-04-28 21:17:26.855097+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 25, 853999, tzinfo=datetime.timezone.utc), -1, (9, 3, 5, 0, 1, 7), ((0, 37), (4, 38), (12, 57))]
+short transaction
+2020-04-28 21:17:29.831660+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 26, 830165, tzinfo=datetime.timezone.utc), -1, (3, 0, 10, 6), ((3, 37), (1, 9))]
+long transaction
+2020-04-28 21:17:30.859804+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 29, 855595, tzinfo=datetime.timezone.utc), -1, (8, 2, 7, 11, 6, 14), ((12, 9), (11, 34), (0, 82))]
+short transaction
+2020-04-28 21:17:31.832805+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 28, 831220, tzinfo=datetime.timezone.utc), -1, (14, 2, 0), ((9, 71), (0, 95), (13, 96), (8, 36), (5, 15))]
+long transaction
+2020-04-28 21:17:32.857174+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 31, 855745, tzinfo=datetime.timezone.utc), -1, (12, 0, 2, 7, 11), ((14, 73), (8, 37), (10, 43), (1, 2), (9, 73), (5, 62))]
+short transaction
+2020-04-28 21:17:33.833486+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 30, 831386, tzinfo=datetime.timezone.utc), -1, (11, 9, 7, 10, 3), ((12, 67), (5, 84), (8, 25), (3, 98), (4, 42), (6, 64), (14, 5))]
+long transaction
+2020-04-28 21:17:34.858227+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 33, 856426, tzinfo=datetime.timezone.utc), -1, (5, 8), ((9, 87), (4, 68), (14, 61))]
+short transaction
+2020-04-28 21:17:37.834069+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 34, 832294, tzinfo=datetime.timezone.utc), -1, (10,), ((2, 72), (8, 81), (3, 65))]
+long transaction
+2020-04-28 21:17:38.862200+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 37, 857994, tzinfo=datetime.timezone.utc), -1, (7, 12), ((9, 6), (1, 51), (11, 66), (6, 50))]
+short transaction
+2020-04-28 21:17:39.834546+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 36, 832700, tzinfo=datetime.timezone.utc), -1, (14, 10, 1, 5), ((7, 2), (8, 45))]
+long transaction
+2020-04-28 21:17:47.835732+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 44, 833698, tzinfo=datetime.timezone.utc), -1, (6, 8, 7, 12, 0, 5, 13), ((2, 77), (3, 81), (7, 42), (13, 10))]
+long transaction
+2020-04-28 21:17:48.861001+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 47, 859669, tzinfo=datetime.timezone.utc), -1, (6, 2, 8, 12, 5, 3), ((6, 36), (3, 55), (2, 4), (8, 59), (7, 27))]
+short transaction
+2020-04-28 21:17:49.836262+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 46, 834460, tzinfo=datetime.timezone.utc), -1, (8, 5, 2, 10, 12, 1), ((5, 76), (1, 47), (8, 79), (2, 18), (6, 9), (4, 16), (13, 96))]
+long transaction
+2020-04-28 21:17:52.863767+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 51, 860356, tzinfo=datetime.timezone.utc), -1, (2, 8, 9, 11, 5), ((6, 52), (5, 50), (8, 29), (11, 38), (14, 97), (7, 78), (12, 14))]
+short transaction
+2020-04-28 21:17:53.837127+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 50, 835516, tzinfo=datetime.timezone.utc), -1, (4, 5, 3, 0, 11, 1, 8), ((2, 33), (4, 93), (9, 34))]
+long transaction
+2020-04-28 21:17:54.862575+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 53, 861066, tzinfo=datetime.timezone.utc), -1, (4, 13, 9, 5, 2), ((4, 9), (13, 90), (5, 74))]
+short transaction
+2020-04-28 21:17:55.837799+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 52, 835842, tzinfo=datetime.timezone.utc), -1, (11, 4, 2, 3, 7), ((6, 1), (10, 83), (1, 47), (4, 80), (9, 95), (5, 48), (13, 24))]
+long transaction
+2020-04-28 21:17:57.838837+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 54, 836629, tzinfo=datetime.timezone.utc), -1, (2, 6, 3, 11, 5, 9, 1), ((3, 52), (0, 23), (4, 84), (8, 78), (13, 53), (7, 94), (9, 20))]
+long transaction
+2020-04-28 21:18:00.867132+00:00 [datetime.datetime(2020, 4, 28, 21, 17, 59, 862262, tzinfo=datetime.timezone.utc), -1, (3, 4, 14, 6), ((8, 3), (9, 20), (14, 84), (12, 6))]
+short transaction
+2020-04-28 21:18:02.872222+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 1, 869833, tzinfo=datetime.timezone.utc), -1, (7,), ((0, 51), (9, 100), (11, 21), (13, 23))]
+short transaction
+2020-04-28 21:18:03.839163+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 0, 837212, tzinfo=datetime.timezone.utc), -1, (1, 14, 11), ((3, 29), (14, 67), (9, 82), (12, 69), (6, 23), (11, 68), (5, 39))]
+long transaction
+2020-04-28 21:18:04.872463+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 3, 870590, tzinfo=datetime.timezone.utc), -1, (3,), ((8, 66), (7, 30), (2, 94), (3, 26), (5, 87))]
+short transaction
+2020-04-28 21:18:05.838405+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 2, 837317, tzinfo=datetime.timezone.utc), -1, (5, 6, 9, 8, 2, 10), ((4, 92), (5, 63))]
+long transaction
+2020-04-28 21:18:07.838683+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 4, 837530, tzinfo=datetime.timezone.utc), -1, (4, 5, 14, 3, 6, 8), ((3, 38), (14, 63), (2, 45), (7, 38), (6, 38), (5, 73))]
+long transaction
+2020-04-28 21:18:08.873289+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 7, 871597, tzinfo=datetime.timezone.utc), -1, (11, 7, 4), ((14, 81), (1, 39), (11, 43), (0, 56))]
+short transaction
+2020-04-28 21:18:09.839727+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 6, 837782, tzinfo=datetime.timezone.utc), -1, (0, 12, 14, 11, 1), ((1, 33), (2, 88), (0, 30), (6, 61), (12, 96), (7, 47))]
+long transaction
+2020-04-28 21:18:11.840099+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 8, 838503, tzinfo=datetime.timezone.utc), -1, (3, 4, 0, 2, 14, 7), ((2, 45),)]
+long transaction
+2020-04-28 21:18:13.840439+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 10, 839232, tzinfo=datetime.timezone.utc), -1, (6,), ((7, 96), (12, 44), (8, 80), (10, 22))]
+long transaction
+2020-04-28 21:18:15.841120+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 12, 839775, tzinfo=datetime.timezone.utc), -1, (9, 4, 1), ((5, 68), (0, 65), (8, 92), (2, 41), (1, 37), (9, 38))]
+long transaction
+2020-04-28 21:18:17.841966+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 14, 839933, tzinfo=datetime.timezone.utc), -1, (12, 9, 10, 3, 6), ((1, 97), (7, 29))]
+long transaction
+2020-04-28 21:18:19.842237+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 16, 840240, tzinfo=datetime.timezone.utc), -1, (1, 5, 0), ((10, 87), (13, 4))]
+long transaction
+2020-04-28 21:18:22.878007+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 21, 874395, tzinfo=datetime.timezone.utc), -1, (0, 11, 4, 13, 7, 9), ((13, 62), (12, 63), (10, 8))]
+short transaction
+2020-04-28 21:18:23.841547+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 20, 840560, tzinfo=datetime.timezone.utc), -1, (1, 5, 9), ((8, 47), (13, 7), (3, 1), (9, 59), (14, 73), (5, 65), (10, 52))]
+long transaction
+2020-04-28 21:18:24.875645+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 23, 874509, tzinfo=datetime.timezone.utc), -1, (9, 5, 8, 11), ((2, 92), (1, 84), (6, 20), (0, 31), (12, 54), (5, 31))]
+short transaction
+2020-04-28 21:18:26.878679+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 25, 875443, tzinfo=datetime.timezone.utc), -1, (10, 3, 2, 5, 7, 6, 4), ((10, 71), (9, 55), (6, 36), (7, 83))]
+short transaction
+2020-04-28 21:18:27.842805+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 24, 841734, tzinfo=datetime.timezone.utc), -1, (9, 2, 12, 13, 5, 6), ((1, 87), (2, 83))]
+long transaction
+2020-04-28 21:18:28.876793+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 27, 875717, tzinfo=datetime.timezone.utc), -1, (1,), ((5, 14), (6, 14))]
+short transaction
+2020-04-28 21:18:33.843476+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 30, 842070, tzinfo=datetime.timezone.utc), -1, (10, 14, 11, 4), ((1, 98),)]
+long transaction
+2020-04-28 21:18:34.880674+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 33, 876844, tzinfo=datetime.timezone.utc), -1, (6, 2, 12, 3, 4, 14, 9), ((4, 6), (3, 4), (8, 92), (9, 60), (12, 24))]
+short transaction
+2020-04-28 21:18:35.844156+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 32, 842986, tzinfo=datetime.timezone.utc), -1, (12, 2), ((13, 18), (0, 87), (7, 8), (14, 43), (5, 31), (6, 68))]
+long transaction
+2020-04-28 21:18:36.878040+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 35, 877066, tzinfo=datetime.timezone.utc), -1, (14, 11, 2), ((3, 58),)]
+short transaction
+2020-04-28 21:18:37.846223+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 34, 843772, tzinfo=datetime.timezone.utc), -1, (5, 1), ((5, 19), (1, 94), (3, 79), (4, 6))]
+long transaction
+2020-04-28 21:18:38.880552+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 37, 877141, tzinfo=datetime.timezone.utc), -1, (2, 12), ((10, 37), (13, 17), (9, 11), (7, 99), (6, 74))]
+short transaction
+2020-04-28 21:18:39.845959+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 36, 844442, tzinfo=datetime.timezone.utc), -1, (6,), ((0, 100), (7, 63), (13, 24), (4, 56), (2, 63), (12, 94))]
+long transaction
+2020-04-28 21:18:41.846293+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 38, 845096, tzinfo=datetime.timezone.utc), -1, (0, 9, 6, 2, 11, 14), ((9, 59), (2, 26), (3, 40), (11, 77))]
+long transaction
+2020-04-28 21:18:43.846551+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 40, 845504, tzinfo=datetime.timezone.utc), -1, (11, 2, 10), ((10, 50), (0, 75), (5, 95), (12, 96))]
+long transaction
+2020-04-28 21:18:45.847413+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 42, 845619, tzinfo=datetime.timezone.utc), -1, (5, 0, 10, 6, 4, 8), ((5, 63), (2, 9), (13, 48), (11, 40), (10, 5), (1, 99))]
+long transaction
+2020-04-28 21:18:46.881380+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 45, 879329, tzinfo=datetime.timezone.utc), -1, (11, 3, 4), ((7, 41),)]
+short transaction
+2020-04-28 21:18:47.848630+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 44, 846440, tzinfo=datetime.timezone.utc), -1, (13,), ((6, 67), (1, 17), (10, 35), (2, 80), (4, 54), (8, 38))]
+long transaction
+2020-04-28 21:18:49.847625+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 46, 846472, tzinfo=datetime.timezone.utc), -1, (11, 3, 13, 1, 2, 4), ((5, 73), (4, 75), (6, 79), (13, 71))]
+long transaction
+2020-04-28 21:18:51.849182+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 48, 847464, tzinfo=datetime.timezone.utc), -1, (8,), ((5, 36), (3, 74))]
+long transaction
+2020-04-28 21:18:53.849374+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 50, 847949, tzinfo=datetime.timezone.utc), -1, (8, 3, 14, 5, 7, 9), ((9, 86), (14, 60), (5, 56))]
+long transaction
+2020-04-28 21:18:54.883412+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 53, 881249, tzinfo=datetime.timezone.utc), -1, (6, 14, 11, 3, 5, 0), ((7, 51), (5, 45), (9, 84), (0, 99))]
+short transaction
+2020-04-28 21:18:55.850340+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 52, 848603, tzinfo=datetime.timezone.utc), -1, (6, 12, 11, 10, 14), ((3, 7), (2, 70), (1, 93), (0, 22))]
+long transaction
+2020-04-28 21:18:56.884268+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 55, 881258, tzinfo=datetime.timezone.utc), -1, (9, 11, 10), ((7, 31), (4, 14), (10, 76))]
+short transaction
+2020-04-28 21:18:57.851550+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 54, 849555, tzinfo=datetime.timezone.utc), -1, (4, 3, 0, 7), ((7, 11), (6, 98), (2, 16))]
+long transaction
+2020-04-28 21:18:58.883292+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 57, 881297, tzinfo=datetime.timezone.utc), -1, (7, 14, 12, 9, 5), ((3, 35), (6, 45), (12, 98), (7, 88), (1, 28), (0, 34), (4, 98))]
+short transaction
+2020-04-28 21:18:59.852262+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 56, 850358, tzinfo=datetime.timezone.utc), -1, (13, 6, 10, 7, 1, 9, 4), ((10, 84), (1, 12), (7, 33), (8, 45))]
+long transaction
+2020-04-28 21:19:00.883678+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 59, 882158, tzinfo=datetime.timezone.utc), -1, (0, 5, 14, 4, 7), ((4, 1), (10, 96), (1, 75), (3, 57), (6, 81), (2, 57))]
+short transaction
+2020-04-28 21:19:01.852173+00:00 [datetime.datetime(2020, 4, 28, 21, 18, 58, 850380, tzinfo=datetime.timezone.utc), -1, (3, 11), ((10, 89), (12, 61), (6, 39), (3, 32), (5, 98), (13, 99))]
+long transaction
+2020-04-28 21:19:02.884395+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 1, 883091, tzinfo=datetime.timezone.utc), -1, (4, 13, 11), ((5, 81),)]
+short transaction
+2020-04-28 21:19:03.852196+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 0, 850765, tzinfo=datetime.timezone.utc), -1, (3, 8, 1, 13, 0), ((1, 97), (10, 62))]
+long transaction
+2020-04-28 21:19:04.884053+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 3, 883113, tzinfo=datetime.timezone.utc), -1, (5, 1, 14), ((2, 17), (11, 69), (3, 93), (9, 82), (4, 33), (0, 26))]
+short transaction
+2020-04-28 21:19:05.852385+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 2, 851481, tzinfo=datetime.timezone.utc), -1, (4, 7, 3, 11), ((1, 50),)]
+long transaction
+2020-04-28 21:19:06.884857+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 5, 883286, tzinfo=datetime.timezone.utc), -1, (5, 1, 4, 14, 9, 12), ((8, 55), (1, 43), (6, 82), (11, 100), (3, 21), (14, 91))]
+short transaction
+2020-04-28 21:19:07.853872+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 4, 852140, tzinfo=datetime.timezone.utc), -1, (7, 14), ((2, 25), (7, 89), (10, 66), (14, 95))]
+long transaction
+2020-04-28 21:19:08.887167+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 7, 883357, tzinfo=datetime.timezone.utc), -1, (0, 11, 4, 1, 6), ((7, 62), (1, 1), (13, 34), (0, 45), (12, 10))]
+short transaction
+2020-04-28 21:19:09.854294+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 6, 852943, tzinfo=datetime.timezone.utc), -1, (2, 1), ((9, 39), (6, 70), (13, 10), (12, 4))]
+long transaction
+2020-04-28 21:19:10.886227+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 9, 884160, tzinfo=datetime.timezone.utc), -1, (9,), ((0, 16), (6, 4), (7, 63), (12, 17), (4, 28), (11, 67), (14, 90))]
+short transaction
+2020-04-28 21:19:11.854802+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 8, 853256, tzinfo=datetime.timezone.utc), -1, (13, 5, 3, 4, 9), ((14, 83), (9, 38), (7, 48), (2, 78))]
+long transaction
+2020-04-28 21:19:12.886057+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 11, 884722, tzinfo=datetime.timezone.utc), -1, (7, 10, 12, 8, 4), ((7, 4), (14, 32), (4, 89), (3, 12))]
+short transaction
+2020-04-28 21:19:14.889090+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 13, 885430, tzinfo=datetime.timezone.utc), -1, (11, 1, 6, 12, 0, 10), ((4, 54), (11, 57), (1, 43), (2, 58), (10, 12), (7, 73), (12, 3))]
+short transaction
+2020-04-28 21:19:15.856154+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 12, 854345, tzinfo=datetime.timezone.utc), -1, (4,), ((11, 52), (7, 74), (6, 92), (10, 68))]
+long transaction
+2020-04-28 21:19:16.887988+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 15, 887072, tzinfo=datetime.timezone.utc), -1, (5, 1, 8, 10), ((10, 43), (2, 8))]
+short transaction
+2020-04-28 21:19:17.856889+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 14, 855174, tzinfo=datetime.timezone.utc), -1, (1, 9, 4, 5, 11), ((12, 32),)]
+long transaction
+2020-04-28 21:19:18.891410+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 17, 887807, tzinfo=datetime.timezone.utc), -1, (13, 4, 10, 14), ((11, 65), (10, 57), (12, 94), (6, 21), (4, 60), (3, 97), (7, 75))]
+short transaction
+2020-04-28 21:19:19.857710+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 16, 856105, tzinfo=datetime.timezone.utc), -1, (9, 12, 4, 10, 6), ((4, 20),)]
+long transaction
+2020-04-28 21:19:21.857724+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 18, 856500, tzinfo=datetime.timezone.utc), -1, (4, 6, 13), ((13, 31), (5, 99))]
+long transaction
+2020-04-28 21:19:23.859077+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 20, 857362, tzinfo=datetime.timezone.utc), -1, (0, 1, 12), ((14, 70), (9, 74), (5, 33))]
+long transaction
+2020-04-28 21:19:24.890341+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 23, 888967, tzinfo=datetime.timezone.utc), -1, (10, 2, 8, 6, 14, 1), ((8, 76), (2, 11), (9, 58), (13, 61), (6, 66), (11, 8))]
+short transaction
+2020-04-28 21:19:25.859103+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 22, 857497, tzinfo=datetime.timezone.utc), -1, (7,), ((14, 82), (4, 78), (5, 66), (3, 26), (1, 2), (2, 76))]
+long transaction
+2020-04-28 21:19:27.859844+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 24, 858426, tzinfo=datetime.timezone.utc), -1, (14, 11), ((10, 56), (12, 93))]
+long transaction
+2020-04-28 21:19:29.860309+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 26, 858508, tzinfo=datetime.timezone.utc), -1, (5,), ((0, 6), (10, 71), (4, 68), (11, 65), (12, 2), (8, 1))]
+long transaction
+2020-04-28 21:19:30.892399+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 29, 891226, tzinfo=datetime.timezone.utc), -1, (6, 2, 4, 0, 5), ((0, 51), (14, 53), (6, 1))]
+short transaction
+2020-04-28 21:19:31.861337+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 28, 858831, tzinfo=datetime.timezone.utc), -1, (9, 11, 13, 0, 7, 1, 2), ((13, 85), (12, 54))]
+long transaction
+2020-04-28 21:19:32.892619+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 31, 890258, tzinfo=datetime.timezone.utc), -1, (2, 11, 6, 14, 7, 13), ((11, 31), (6, 3), (13, 41), (2, 2))]
+short transaction
+2020-04-28 21:19:33.862113+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 30, 860485, tzinfo=datetime.timezone.utc), -1, (4, 2, 13, 7, 1, 6, 10), ((12, 22), (2, 8), (9, 10), (14, 27), (0, 59))]
+long transaction
+2020-04-28 21:19:34.893188+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 33, 891038, tzinfo=datetime.timezone.utc), -1, (6, 4, 0, 2, 14, 11), ((12, 61), (13, 72), (2, 37), (8, 96), (4, 26), (1, 66))]
+short transaction
+2020-04-28 21:19:35.932293+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 32, 861703, tzinfo=datetime.timezone.utc), -1, (1, 9, 2, 7, 3, 14, 11), ((7, 97), (8, 71))]
+long transaction
+2020-04-28 21:19:36.935653+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 35, 891404, tzinfo=datetime.timezone.utc), -1, (6, 9, 1, 12, 13, 14), ((12, 98), (4, 90), (9, 77), (5, 39), (13, 80))]
+short transaction
+2020-04-28 21:19:37.871182+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 34, 870247, tzinfo=datetime.timezone.utc), -1, (4, 12, 10, 14, 6), ((6, 45), (10, 27))]
+long transaction
+2020-04-28 21:19:39.872775+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 36, 870826, tzinfo=datetime.timezone.utc), -1, (11, 4), ((10, 63),)]
+long transaction
+2020-04-28 21:19:43.872492+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 40, 871247, tzinfo=datetime.timezone.utc), -1, (5, 1, 7), ((9, 95), (4, 90), (0, 23), (6, 94), (2, 40), (7, 41), (13, 73))]
+long transaction
+2020-04-28 21:19:44.895083+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 43, 893464, tzinfo=datetime.timezone.utc), -1, (11, 6, 12), ((8, 69), (14, 39), (3, 69), (2, 34), (7, 82), (13, 82))]
+short transaction
+2020-04-28 21:19:45.872972+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 42, 871266, tzinfo=datetime.timezone.utc), -1, (11, 4, 0, 9, 3), ((3, 47), (0, 2), (8, 29))]
+long transaction
+2020-04-28 21:19:49.873437+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 46, 872250, tzinfo=datetime.timezone.utc), -1, (5, 2, 14), ((1, 73), (3, 45), (11, 100))]
+long transaction
+2020-04-28 21:19:53.875282+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 50, 874004, tzinfo=datetime.timezone.utc), -1, (0, 11, 7, 4, 9, 10, 14), ((5, 94), (10, 63), (8, 45))]
+long transaction
+2020-04-28 21:19:54.896812+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 53, 895229, tzinfo=datetime.timezone.utc), -1, (2, 12, 10), ((4, 54), (12, 72), (0, 94), (1, 84), (2, 81), (6, 62), (9, 22))]
+short transaction
+2020-04-28 21:19:55.876638+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 52, 874909, tzinfo=datetime.timezone.utc), -1, (10, 6, 13, 1, 9), ((13, 73), (1, 66))]
+long transaction
+2020-04-28 21:19:56.897804+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 55, 895585, tzinfo=datetime.timezone.utc), -1, (14, 13, 10, 7, 12, 2), ((8, 18), (0, 59), (4, 69), (12, 7), (11, 22))]
+short transaction
+2020-04-28 21:19:57.877639+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 54, 875869, tzinfo=datetime.timezone.utc), -1, (5, 8, 2, 10, 7), ((13, 89), (7, 2), (6, 75), (8, 31), (5, 71))]
+long transaction
+2020-04-28 21:19:58.897429+00:00 [datetime.datetime(2020, 4, 28, 21, 19, 57, 895591, tzinfo=datetime.timezone.utc), -1, (14, 11, 4, 8, 2, 5, 1), ((10, 35), (12, 69), (3, 62), (6, 95))]
+short transaction
+2020-04-28 21:20:02.901848+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 1, 896510, tzinfo=datetime.timezone.utc), -1, (11, 0, 9, 3, 7, 10), ((3, 68), (13, 97), (11, 48), (10, 8), (14, 41), (7, 99), (8, 63))]
+short transaction
+2020-04-28 21:20:03.879582+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 0, 877720, tzinfo=datetime.timezone.utc), -1, (10, 9), ((2, 99),)]
+long transaction
+2020-04-28 21:20:05.879170+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 2, 877909, tzinfo=datetime.timezone.utc), -1, (11, 13, 2, 10, 4), ((7, 60), (6, 13), (5, 77), (4, 22), (8, 9), (12, 54), (9, 59))]
+long transaction
+2020-04-28 21:20:07.879872+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 4, 878790, tzinfo=datetime.timezone.utc), -1, (10,), ((3, 80), (11, 98), (4, 38), (12, 61), (6, 73))]
+long transaction
+2020-04-28 21:20:08.905545+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 7, 903808, tzinfo=datetime.timezone.utc), -1, (2, 4, 8), ((3, 60), (14, 63), (0, 39), (12, 49))]
+short transaction
+2020-04-28 21:20:09.881244+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 6, 879525, tzinfo=datetime.timezone.utc), -1, (8, 3, 9), ((1, 32), (0, 19), (3, 96), (13, 2), (14, 41), (10, 50))]
+long transaction
+2020-04-28 21:20:10.906530+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 9, 904289, tzinfo=datetime.timezone.utc), -1, (14, 12, 0, 8, 11, 2), ((10, 15), (2, 10), (13, 22), (9, 100), (11, 26), (4, 75), (7, 24))]
+short transaction
+2020-04-28 21:20:11.881938+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 8, 879642, tzinfo=datetime.timezone.utc), -1, (3, 8), ((2, 4), (0, 91), (13, 79), (5, 11), (10, 99), (7, 62), (11, 72))]
+long transaction
+2020-04-28 21:20:12.906939+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 11, 904877, tzinfo=datetime.timezone.utc), -1, (10,), ((7, 48), (4, 20), (8, 23), (10, 40))]
+short transaction
+2020-04-28 21:20:13.881974+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 10, 880598, tzinfo=datetime.timezone.utc), -1, (12, 9, 5, 14, 10, 13, 1), ((8, 44), (9, 6))]
+long transaction
+2020-04-28 21:20:15.883322+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 12, 881007, tzinfo=datetime.timezone.utc), -1, (12, 3, 11, 0, 8), ((6, 86), (3, 92), (1, 34), (4, 77), (14, 94))]
+long transaction
+2020-04-28 21:20:17.883139+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 14, 881513, tzinfo=datetime.timezone.utc), -1, (0, 4), ((10, 64), (0, 2), (6, 5), (3, 22), (9, 51))]
+long transaction
+2020-04-28 21:20:19.883676+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 16, 882446, tzinfo=datetime.timezone.utc), -1, (8, 11, 0, 14, 9), ((1, 32),)]
+long transaction
+2020-04-28 21:20:20.910368+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 19, 906625, tzinfo=datetime.timezone.utc), -1, (5, 9, 10, 13, 8), ((1, 48), (3, 67), (14, 21), (8, 67))]
+short transaction
+2020-04-28 21:20:23.885137+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 20, 883459, tzinfo=datetime.timezone.utc), -1, (14, 12, 13, 0, 1, 7, 2), ((13, 60), (0, 17))]
+long transaction
+2020-04-28 21:20:25.885441+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 22, 884224, tzinfo=datetime.timezone.utc), -1, (0, 13, 5, 1, 8), ((6, 48),)]
+long transaction
+2020-04-28 21:20:27.886370+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 24, 884595, tzinfo=datetime.timezone.utc), -1, (7, 8, 6), ((12, 37), (11, 79), (4, 56), (3, 11), (10, 86), (5, 24))]
+long transaction
+2020-04-28 21:20:28.912255+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 27, 910306, tzinfo=datetime.timezone.utc), -1, (8, 9, 7, 11, 4, 0, 13), ((5, 38), (12, 42), (14, 84), (10, 76), (6, 23), (0, 32), (9, 15))]
+short transaction
+2020-04-28 21:20:29.887047+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 26, 885405, tzinfo=datetime.timezone.utc), -1, (14, 8, 6, 0, 7), ((13, 46), (5, 93), (11, 86), (10, 76), (7, 87))]
+long transaction
+2020-04-28 21:20:31.891580+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 28, 890315, tzinfo=datetime.timezone.utc), -1, (9, 11, 8), ((8, 12), (10, 31), (7, 67), (2, 72))]
+long transaction
+2020-04-28 21:20:34.922980+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 33, 919523, tzinfo=datetime.timezone.utc), -1, (5, 11, 7, 0, 12), ((1, 17), (11, 91), (10, 94), (7, 42), (9, 19), (12, 83))]
+short transaction
+2020-04-28 21:20:35.893393+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 32, 891590, tzinfo=datetime.timezone.utc), -1, (7, 0, 8, 4, 13, 14, 5), ((4, 92), (3, 60), (12, 21), (6, 65), (8, 4), (2, 50), (11, 97))]
+long transaction
+2020-04-28 21:20:36.922394+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 35, 921160, tzinfo=datetime.timezone.utc), -1, (11, 14, 13), ((3, 92),)]
+short transaction
+2020-04-28 21:20:37.893385+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 34, 892063, tzinfo=datetime.timezone.utc), -1, (12, 7, 11, 3, 8), ((11, 43), (4, 62), (1, 75), (8, 59))]
+long transaction
+2020-04-28 21:20:39.896628+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 36, 892464, tzinfo=datetime.timezone.utc), -1, (5, 0, 13), ((5, 21), (9, 22))]
+long transaction
+2020-04-28 21:20:40.922884+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 39, 921563, tzinfo=datetime.timezone.utc), -1, (11, 5), ((3, 65), (8, 18), (7, 32))]
+short transaction
+2020-04-28 21:20:41.897080+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 38, 893050, tzinfo=datetime.timezone.utc), -1, (1, 11), ((3, 58), (0, 100))]
+long transaction
+2020-04-28 21:20:43.895664+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 40, 893995, tzinfo=datetime.timezone.utc), -1, (12,), ((1, 68), (2, 11), (9, 58), (0, 48), (12, 7), (13, 68), (4, 9))]
+long transaction
+2020-04-28 21:20:47.897170+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 44, 895567, tzinfo=datetime.timezone.utc), -1, (14, 3, 12, 9), ((2, 65), (10, 85), (1, 66), (4, 12))]
+long transaction
+2020-04-28 21:20:49.898554+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 46, 895947, tzinfo=datetime.timezone.utc), -1, (0, 10, 4, 8), ((13, 46), (14, 7), (4, 49), (11, 56), (10, 55), (8, 50), (2, 59))]
+long transaction
+2020-04-28 21:20:51.898158+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 48, 896533, tzinfo=datetime.timezone.utc), -1, (8, 11, 6, 2), ((10, 91), (13, 85), (12, 25))]
+long transaction
+2020-04-28 21:20:53.898672+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 50, 896535, tzinfo=datetime.timezone.utc), -1, (0, 7, 8, 1, 9, 10, 5), ((0, 71), (6, 54), (3, 15), (8, 58), (7, 4))]
+long transaction
+2020-04-28 21:20:54.926959+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 53, 925118, tzinfo=datetime.timezone.utc), -1, (14, 2, 6, 10, 4, 13), ((5, 7), (10, 44))]
+short transaction
+2020-04-28 21:20:55.898353+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 52, 896873, tzinfo=datetime.timezone.utc), -1, (7, 8, 3), ((13, 99), (5, 26), (11, 30), (8, 53), (2, 68), (4, 19))]
+long transaction
+2020-04-28 21:20:56.927487+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 55, 925283, tzinfo=datetime.timezone.utc), -1, (8, 7), ((7, 23), (5, 43), (8, 2), (3, 68), (6, 33), (12, 76))]
+short transaction
+2020-04-28 21:20:57.898889+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 54, 897032, tzinfo=datetime.timezone.utc), -1, (7, 14, 6, 11, 0), ((7, 1), (8, 70), (13, 81), (5, 91), (12, 15), (2, 25))]
+long transaction
+2020-04-28 21:20:58.926901+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 57, 925841, tzinfo=datetime.timezone.utc), -1, (7, 4, 3, 2, 1, 11, 5), ((12, 29),)]
+short transaction
+2020-04-28 21:20:59.899157+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 56, 897566, tzinfo=datetime.timezone.utc), -1, (9, 10, 13), ((6, 89), (7, 98))]
+long transaction
+2020-04-28 21:21:00.927193+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 59, 926086, tzinfo=datetime.timezone.utc), -1, (12, 7), ((7, 19), (14, 96), (2, 86))]
+short transaction
+2020-04-28 21:21:01.899819+00:00 [datetime.datetime(2020, 4, 28, 21, 20, 58, 897977, tzinfo=datetime.timezone.utc), -1, (12, 2), ((2, 80), (14, 57), (10, 74), (3, 79))]
+long transaction
+2020-04-28 21:21:02.928500+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 1, 926747, tzinfo=datetime.timezone.utc), -1, (2, 12), ((11, 77), (6, 27))]
+short transaction
+2020-04-28 21:21:03.901643+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 0, 898271, tzinfo=datetime.timezone.utc), -1, (11, 14, 10, 3), ((8, 80), (10, 84))]
+long transaction
+2020-04-28 21:21:05.900223+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 2, 898580, tzinfo=datetime.timezone.utc), -1, (14, 10, 5, 8, 0), ((0, 37), (1, 8), (8, 63), (4, 36))]
+long transaction
+2020-04-28 21:21:07.912137+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 4, 911016, tzinfo=datetime.timezone.utc), -1, (14, 6, 13), ((1, 63), (14, 70), (3, 18), (9, 74))]
+long transaction
+2020-04-28 21:21:09.912709+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 6, 911539, tzinfo=datetime.timezone.utc), -1, (9, 1, 0, 2, 5, 6, 11), ((13, 76), (6, 10), (1, 93), (12, 80), (5, 72), (9, 85), (7, 25))]
+long transaction
+2020-04-28 21:21:11.912872+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 8, 911872, tzinfo=datetime.timezone.utc), -1, (8, 5, 10), ((8, 91), (11, 45), (14, 21))]
+long transaction
+2020-04-28 21:21:14.932863+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 13, 929544, tzinfo=datetime.timezone.utc), -1, (5, 8, 6, 4, 11), ((9, 79), (3, 2), (5, 57), (6, 65), (12, 17))]
+short transaction
+2020-04-28 21:21:15.919315+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 12, 918168, tzinfo=datetime.timezone.utc), -1, (4, 14, 1, 13, 3, 7), ((3, 58), (11, 43), (0, 46), (2, 69), (14, 58))]
+long transaction
+2020-04-28 21:21:16.931587+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 15, 930282, tzinfo=datetime.timezone.utc), -1, (2,), ((5, 2),)]
+short transaction
+2020-04-28 21:21:19.921022+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 16, 919378, tzinfo=datetime.timezone.utc), -1, (8, 4, 3, 11, 5, 9), ((4, 82),)]
+long transaction
+2020-04-28 21:21:21.977690+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 18, 919825, tzinfo=datetime.timezone.utc), -1, (8, 3), ((0, 44), (2, 86), (10, 83))]
+long transaction
+2020-04-28 21:21:23.922499+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 20, 920583, tzinfo=datetime.timezone.utc), -1, (5, 10), ((4, 58),)]
+long transaction
+2020-04-28 21:21:25.922641+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 22, 920911, tzinfo=datetime.timezone.utc), -1, (12, 3, 1, 8, 0), ((13, 47), (1, 94), (8, 41), (3, 77))]
+long transaction
+2020-04-28 21:21:26.933597+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 25, 931615, tzinfo=datetime.timezone.utc), -1, (13, 12, 3), ((2, 91),)]
+short transaction
+2020-04-28 21:21:29.924081+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 26, 922626, tzinfo=datetime.timezone.utc), -1, (13, 6, 4), ((14, 7), (9, 7), (6, 11))]
+long transaction
+2020-04-28 21:21:30.934823+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 29, 933058, tzinfo=datetime.timezone.utc), -1, (13, 3, 11, 4, 0, 9), ((12, 65), (3, 64))]
+short transaction
+2020-04-28 21:21:31.924811+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 28, 923133, tzinfo=datetime.timezone.utc), -1, (1, 3, 8, 2, 12, 6), ((8, 30), (4, 79))]
+long transaction
+2020-04-28 21:21:33.925661+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 30, 923852, tzinfo=datetime.timezone.utc), -1, (14, 11, 7, 10, 9), ((7, 59),)]
+long transaction
+2020-04-28 21:21:35.925964+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 32, 924717, tzinfo=datetime.timezone.utc), -1, (6, 12, 5, 14, 2, 0), ((8, 95), (9, 32), (10, 1), (12, 43))]
+long transaction
+2020-04-28 21:21:36.938265+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 35, 934940, tzinfo=datetime.timezone.utc), -1, (11,), ((8, 77), (1, 72), (6, 48), (3, 22), (13, 66), (14, 56), (0, 5))]
+short transaction
+2020-04-28 21:21:39.927749+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 36, 926298, tzinfo=datetime.timezone.utc), -1, (13, 14, 11, 3, 2), ((0, 43), (12, 17), (8, 6), (1, 7), (7, 72), (9, 53))]
+long transaction
+2020-04-28 21:21:40.937610+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 39, 935730, tzinfo=datetime.timezone.utc), -1, (1, 6), ((6, 86), (2, 7), (10, 66), (8, 9))]
+short transaction
+2020-04-28 21:21:41.927964+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 38, 926621, tzinfo=datetime.timezone.utc), -1, (3, 10, 2), ((4, 96), (5, 5), (2, 27))]
+long transaction
+2020-04-28 21:21:42.938112+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 41, 935941, tzinfo=datetime.timezone.utc), -1, (10, 2, 0, 11, 13, 12), ((0, 2), (13, 47))]
+short transaction
+2020-04-28 21:21:43.927709+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 40, 926638, tzinfo=datetime.timezone.utc), -1, (0, 1, 6, 14, 8, 2, 5), ((2, 21), (3, 6), (7, 36), (5, 51))]
+long transaction
+2020-04-28 21:21:44.938086+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 43, 936669, tzinfo=datetime.timezone.utc), -1, (4, 3, 8), ((8, 72), (10, 9), (9, 60), (4, 25), (12, 66), (1, 6), (3, 94))]
+short transaction
+2020-04-28 21:21:47.930084+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 44, 928114, tzinfo=datetime.timezone.utc), -1, (0, 13, 6, 3, 14, 1), ((14, 69),)]
+long transaction
+2020-04-28 21:21:48.941671+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 47, 938114, tzinfo=datetime.timezone.utc), -1, (2, 5, 9, 1, 10), ((0, 59), (6, 48))]
+short transaction
+2020-04-28 21:21:49.930690+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 46, 928630, tzinfo=datetime.timezone.utc), -1, (0, 10, 12, 2, 5, 11, 13), ((8, 1), (1, 90), (7, 14))]
+long transaction
+2020-04-28 21:21:51.930726+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 48, 928706, tzinfo=datetime.timezone.utc), -1, (14, 5, 8, 0, 10), ((8, 53),)]
+long transaction
+2020-04-28 21:21:52.941705+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 51, 939558, tzinfo=datetime.timezone.utc), -1, (8, 12, 10, 0, 7, 6, 3), ((8, 80), (12, 31), (6, 30), (13, 41), (10, 15), (14, 69), (5, 84))]
+short transaction
+2020-04-28 21:21:53.933027+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 50, 929017, tzinfo=datetime.timezone.utc), -1, (3, 11, 0, 4), ((14, 41),)]
+long transaction
+2020-04-28 21:21:54.941711+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 53, 940002, tzinfo=datetime.timezone.utc), -1, (14,), ((2, 62), (14, 60))]
+short transaction
+2020-04-28 21:21:55.930887+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 52, 929772, tzinfo=datetime.timezone.utc), -1, (13, 9), ((1, 66), (11, 16), (5, 63), (0, 65), (7, 16))]
+long transaction
+2020-04-28 21:21:56.942210+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 55, 940861, tzinfo=datetime.timezone.utc), -1, (9, 3, 10, 8, 4, 11), ((9, 20),)]
+short transaction
+2020-04-28 21:21:57.932964+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 54, 930764, tzinfo=datetime.timezone.utc), -1, (9, 3, 8, 6, 13, 2), ((0, 7), (13, 75), (14, 23), (12, 26), (10, 72), (11, 81), (9, 54))]
+long transaction
+2020-04-28 21:21:58.942638+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 57, 940942, tzinfo=datetime.timezone.utc), -1, (3, 12, 14, 7, 2), ((1, 91), (9, 88), (14, 93), (4, 29))]
+short transaction
+2020-04-28 21:21:59.932993+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 56, 931239, tzinfo=datetime.timezone.utc), -1, (4, 10, 2, 5, 8, 9, 12), ((2, 73),)]
+long transaction
+2020-04-28 21:22:01.933819+00:00 [datetime.datetime(2020, 4, 28, 21, 21, 58, 931668, tzinfo=datetime.timezone.utc), -1, (2, 14, 3), ((8, 95), (13, 69), (5, 79), (3, 81), (10, 11), (12, 84))]
+long transaction
+2020-04-28 21:22:03.934441+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 0, 932193, tzinfo=datetime.timezone.utc), -1, (0, 14, 1, 4, 2), ((13, 14),)]
+long transaction
+2020-04-28 21:22:04.947440+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 3, 943404, tzinfo=datetime.timezone.utc), -1, (7,), ((12, 17), (5, 74))]
+short transaction
+2020-04-28 21:22:09.936612+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 6, 934101, tzinfo=datetime.timezone.utc), -1, (6, 14, 13), ((7, 9), (5, 81), (4, 78), (2, 16), (8, 38), (9, 23))]
+long transaction
+2020-04-28 21:22:11.936329+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 8, 934764, tzinfo=datetime.timezone.utc), -1, (2, 9), ((5, 84), (11, 100), (0, 3), (1, 59), (14, 39), (4, 15))]
+long transaction
+2020-04-28 21:22:12.946807+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 11, 944944, tzinfo=datetime.timezone.utc), -1, (2, 7, 5), ((7, 78),)]
+short transaction
+2020-04-28 21:22:13.937098+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 10, 935368, tzinfo=datetime.timezone.utc), -1, (2, 13, 1), ((4, 94),)]
+long transaction
+2020-04-28 21:22:15.937458+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 12, 935834, tzinfo=datetime.timezone.utc), -1, (2, 4), ((0, 4), (5, 84), (3, 16), (1, 57))]
+long transaction
+2020-04-28 21:22:16.946601+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 15, 945437, tzinfo=datetime.timezone.utc), -1, (8, 1, 10, 3), ((2, 38), (12, 47), (7, 24), (9, 2), (14, 41), (1, 28), (13, 25))]
+short transaction
+2020-04-28 21:22:18.948605+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 17, 946104, tzinfo=datetime.timezone.utc), -1, (10, 8, 12, 4, 11, 14, 0), ((8, 19), (7, 25), (6, 11), (5, 20), (2, 74), (9, 27), (11, 8))]
+short transaction
+2020-04-28 21:22:19.938433+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 16, 936622, tzinfo=datetime.timezone.utc), -1, (4, 6), ((2, 53), (14, 74), (1, 21), (7, 85), (9, 74), (5, 14), (13, 88))]
+long transaction
+2020-04-28 21:22:21.938964+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 18, 936634, tzinfo=datetime.timezone.utc), -1, (2, 0, 8), ((14, 10), (6, 36), (11, 92), (8, 91), (2, 45), (7, 95))]
+long transaction
+2020-04-28 21:22:22.948236+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 21, 946944, tzinfo=datetime.timezone.utc), -1, (0, 2, 6, 1, 11, 13, 7), ((2, 35), (3, 64), (5, 14), (10, 29))]
+short transaction
+2020-04-28 21:22:23.937758+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 20, 936783, tzinfo=datetime.timezone.utc), -1, (2, 10, 14), ((11, 13),)]
+long transaction
+2020-04-28 21:22:24.949711+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 23, 947730, tzinfo=datetime.timezone.utc), -1, (2, 12, 0, 11), ((6, 67), (2, 27), (8, 81))]
+short transaction
+2020-04-28 21:22:26.951609+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 25, 947783, tzinfo=datetime.timezone.utc), -1, (13, 7), ((10, 60), (1, 64), (8, 73), (4, 27), (7, 89), (9, 62), (3, 19))]
+short transaction
+2020-04-28 21:22:27.941144+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 24, 937742, tzinfo=datetime.timezone.utc), -1, (11, 14, 10, 13, 8, 3), ((11, 82), (9, 67), (0, 95))]
+long transaction
+2020-04-28 21:22:28.949959+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 27, 948127, tzinfo=datetime.timezone.utc), -1, (10, 3, 5, 0, 11), ((12, 11),)]
+short transaction
+2020-04-28 21:22:29.940825+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 26, 938642, tzinfo=datetime.timezone.utc), -1, (12, 1, 11, 4, 0), ((10, 58),)]
+long transaction
+2020-04-28 21:22:30.950384+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 29, 948802, tzinfo=datetime.timezone.utc), -1, (11, 14, 12, 2, 10, 0, 8), ((1, 13),)]
+short transaction
+2020-04-28 21:22:31.940292+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 28, 938989, tzinfo=datetime.timezone.utc), -1, (10, 3, 9), ((13, 75), (8, 30), (1, 5))]
+long transaction
+2020-04-28 21:22:33.940971+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 30, 939412, tzinfo=datetime.timezone.utc), -1, (10, 13, 5, 7, 11, 9, 1), ((3, 43), (0, 95))]
+long transaction
+2020-04-28 21:22:34.951787+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 33, 950943, tzinfo=datetime.timezone.utc), -1, (8, 11, 14, 2, 3), ((7, 63), (3, 92))]
+short transaction
+2020-04-28 21:22:35.942666+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 32, 940330, tzinfo=datetime.timezone.utc), -1, (0, 4, 14, 13, 2), ((5, 1), (3, 79), (6, 87), (4, 27), (0, 69))]
+long transaction
+2020-04-28 21:22:36.952127+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 35, 950644, tzinfo=datetime.timezone.utc), -1, (6, 3, 7, 14, 4), ((0, 50), (14, 4), (1, 60), (12, 53), (6, 3), (7, 62))]
+short transaction
+2020-04-28 21:22:37.943476+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 34, 941822, tzinfo=datetime.timezone.utc), -1, (0, 4, 14, 13, 5), ((2, 63), (1, 72))]
+long transaction
+2020-04-28 21:22:38.952961+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 37, 951543, tzinfo=datetime.timezone.utc), -1, (2, 4, 14, 12, 6, 11), ((12, 50), (4, 29), (2, 15), (10, 77))]
+short transaction
+2020-04-28 21:22:39.944388+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 36, 942152, tzinfo=datetime.timezone.utc), -1, (2, 1, 9, 12, 7), ((8, 44), (12, 10), (4, 71), (2, 2), (0, 94))]
+long transaction
+2020-04-28 21:22:43.944888+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 40, 943505, tzinfo=datetime.timezone.utc), -1, (14, 13, 9, 4, 11, 0), ((8, 61), (2, 100), (3, 31), (9, 33))]
+long transaction
+2020-04-28 21:22:45.945224+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 42, 943575, tzinfo=datetime.timezone.utc), -1, (11, 9), ((6, 28), (1, 80))]
+long transaction
+2020-04-28 21:22:47.945801+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 44, 943729, tzinfo=datetime.timezone.utc), -1, (6, 13, 7, 14, 12, 4), ((0, 47), (3, 1), (2, 90))]
+long transaction
+2020-04-28 21:22:48.955522+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 47, 953904, tzinfo=datetime.timezone.utc), -1, (8, 4, 5, 9, 0, 12, 3), ((13, 11), (10, 8), (1, 92), (7, 93))]
+short transaction
+2020-04-28 21:22:49.947034+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 46, 944726, tzinfo=datetime.timezone.utc), -1, (3, 1, 2, 10, 8), ((5, 61), (9, 99), (12, 89), (4, 75), (13, 39), (0, 61))]
+long transaction
+2020-04-28 21:22:50.956285+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 49, 954134, tzinfo=datetime.timezone.utc), -1, (7, 2, 4, 11, 13), ((13, 70), (10, 1), (4, 80), (0, 29), (9, 54), (2, 68))]
+short transaction
+2020-04-28 21:22:52.958443+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 51, 954823, tzinfo=datetime.timezone.utc), -1, (1, 6, 8), ((7, 1), (10, 76), (8, 38), (2, 94), (0, 45), (1, 41))]
+short transaction
+2020-04-28 21:22:55.947555+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 52, 945465, tzinfo=datetime.timezone.utc), -1, (12, 7), ((8, 44), (4, 77), (12, 64), (6, 37), (9, 99))]
+long transaction
+2020-04-28 21:22:57.947019+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 54, 945480, tzinfo=datetime.timezone.utc), -1, (9, 3, 5, 7, 12, 0, 8), ((9, 18), (14, 51), (8, 3), (3, 7))]
+long transaction
+2020-04-28 21:22:59.947050+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 56, 945915, tzinfo=datetime.timezone.utc), -1, (6, 1, 9, 8, 13), ((2, 51), (1, 32), (4, 63))]
+long transaction
+2020-04-28 21:23:00.957905+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 59, 956026, tzinfo=datetime.timezone.utc), -1, (2, 12, 14, 6, 8, 1), ((12, 52), (3, 58))]
+short transaction
+2020-04-28 21:23:01.949180+00:00 [datetime.datetime(2020, 4, 28, 21, 22, 58, 946900, tzinfo=datetime.timezone.utc), -1, (14, 4, 2, 7, 12), ((11, 85), (8, 76), (13, 37), (9, 72), (1, 64))]
+long transaction
+2020-04-28 21:23:02.957373+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 1, 956246, tzinfo=datetime.timezone.utc), -1, (9, 6, 0, 13, 12), ((2, 82), (1, 75), (9, 74), (13, 80), (7, 19), (14, 76))]
+short transaction
+2020-04-28 21:23:03.948970+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 0, 946935, tzinfo=datetime.timezone.utc), -1, (5, 3, 4, 1, 8), ((2, 87), (1, 38), (5, 61), (7, 38), (0, 9))]
+long transaction
+2020-04-28 21:23:05.949244+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 2, 947400, tzinfo=datetime.timezone.utc), -1, (11, 8), ((2, 66), (9, 38), (0, 34), (14, 77), (11, 79))]
+long transaction
+2020-04-28 21:23:06.959050+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 5, 957223, tzinfo=datetime.timezone.utc), -1, (5, 8, 2, 7, 0), ((8, 93), (1, 82), (7, 82))]
+short transaction
+2020-04-28 21:23:07.949466+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 4, 947808, tzinfo=datetime.timezone.utc), -1, (10, 2), ((4, 3), (8, 62), (3, 52))]
+long transaction
+2020-04-28 21:23:09.949322+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 6, 948079, tzinfo=datetime.timezone.utc), -1, (6, 9, 11, 7, 3), ((0, 19), (11, 97), (6, 75))]
+long transaction
+2020-04-28 21:23:11.950687+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 8, 948440, tzinfo=datetime.timezone.utc), -1, (0, 10, 13, 1, 3, 2), ((13, 73), (3, 8), (7, 23))]
+long transaction
+2020-04-28 21:23:13.950043+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 10, 948779, tzinfo=datetime.timezone.utc), -1, (11, 2, 9, 1), ((12, 64), (9, 98), (7, 65), (11, 6), (10, 52), (2, 34), (13, 40))]
+long transaction
+2020-04-28 21:23:14.962086+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 13, 958898, tzinfo=datetime.timezone.utc), -1, (0, 5), ((11, 79), (1, 19), (5, 1), (3, 42))]
+short transaction
+2020-04-28 21:23:17.953376+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 14, 949251, tzinfo=datetime.timezone.utc), -1, (10, 6), ((9, 49), (3, 46), (0, 71), (10, 85))]
+long transaction
+2020-04-28 21:23:18.961768+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 17, 960354, tzinfo=datetime.timezone.utc), -1, (10, 8, 14, 9, 4, 1), ((6, 60), (9, 67))]
+short transaction
+2020-04-28 21:23:23.953130+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 20, 951465, tzinfo=datetime.timezone.utc), -1, (6, 2, 3, 14, 0, 5, 11), ((3, 72), (5, 91), (13, 100), (6, 92), (12, 77), (2, 83), (1, 36))]
+long transaction
+2020-04-28 21:23:24.964077+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 23, 962104, tzinfo=datetime.timezone.utc), -1, (11, 4, 2, 3), ((6, 61), (9, 15), (5, 94), (7, 14))]
+short transaction
+2020-04-28 21:23:25.953595+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 22, 952191, tzinfo=datetime.timezone.utc), -1, (12, 13), ((8, 43), (2, 42), (11, 30), (5, 37))]
+long transaction
+2020-04-28 21:23:26.965585+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 25, 962570, tzinfo=datetime.timezone.utc), -1, (13, 11, 0, 6, 1, 7, 3), ((13, 32), (2, 53))]
+short transaction
+2020-04-28 21:23:27.954677+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 24, 953106, tzinfo=datetime.timezone.utc), -1, (13, 5, 14, 6, 2, 3), ((3, 25), (11, 71), (12, 76))]
+long transaction
+2020-04-28 21:23:28.964703+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 27, 963655, tzinfo=datetime.timezone.utc), -1, (0, 6, 3, 2, 4, 11), ((7, 16),)]
+short transaction
+2020-04-28 21:23:29.954719+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 26, 953606, tzinfo=datetime.timezone.utc), -1, (2, 9, 12, 10), ((1, 48), (13, 36), (7, 74), (2, 92), (8, 76), (9, 17), (5, 2))]
+long transaction
+2020-04-28 21:23:30.969144+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 29, 967684, tzinfo=datetime.timezone.utc), -1, (1, 6, 13, 12), ((10, 28),)]
+short transaction
+2020-04-28 21:23:31.955364+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 28, 953732, tzinfo=datetime.timezone.utc), -1, (1, 6, 3, 14), ((14, 96), (10, 4), (0, 77), (9, 32))]
+long transaction
+2020-04-28 21:23:32.969476+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 31, 967335, tzinfo=datetime.timezone.utc), -1, (0, 6), ((13, 52), (11, 97), (7, 51), (3, 39))]
+short transaction
+2020-04-28 21:23:33.956270+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 30, 954186, tzinfo=datetime.timezone.utc), -1, (12, 9, 5, 11), ((10, 42), (1, 54), (14, 91), (11, 49), (3, 41))]
+long transaction
+2020-04-28 21:23:35.958445+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 32, 956512, tzinfo=datetime.timezone.utc), -1, (5, 13, 6, 9), ((13, 61), (10, 92), (1, 97), (9, 33), (7, 37), (4, 36), (3, 46))]
+long transaction
+2020-04-28 21:23:36.970384+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 35, 968419, tzinfo=datetime.timezone.utc), -1, (13, 8, 0, 10, 12, 3, 9), ((8, 98),)]
+short transaction
+2020-04-28 21:23:37.961342+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 34, 959516, tzinfo=datetime.timezone.utc), -1, (12,), ((14, 84), (2, 34), (5, 25))]
+long transaction
+2020-04-28 21:23:38.970947+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 37, 969304, tzinfo=datetime.timezone.utc), -1, (1, 0, 5, 7, 11), ((9, 60), (11, 96), (4, 79), (13, 64), (8, 51), (5, 20))]
+short transaction
+2020-04-28 21:23:39.962188+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 36, 960410, tzinfo=datetime.timezone.utc), -1, (12, 8, 6, 1, 13, 4, 3), ((14, 86), (11, 97))]
+long transaction
+2020-04-28 21:23:41.962409+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 38, 960972, tzinfo=datetime.timezone.utc), -1, (13,), ((8, 31),)]
+long transaction
+2020-04-28 21:23:42.974619+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 41, 970409, tzinfo=datetime.timezone.utc), -1, (12, 4, 2, 9, 3, 0, 7), ((6, 15), (7, 3))]
+short transaction
+2020-04-28 21:23:45.965197+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 42, 961651, tzinfo=datetime.timezone.utc), -1, (12, 10, 3, 5, 9), ((4, 61), (1, 46), (9, 4))]
+long transaction
+2020-04-28 21:23:47.963959+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 44, 962338, tzinfo=datetime.timezone.utc), -1, (13, 14, 11, 4, 8, 12, 10), ((13, 13), (7, 88), (9, 59), (4, 46), (5, 69))]
+long transaction
+2020-04-28 21:23:48.973678+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 47, 971938, tzinfo=datetime.timezone.utc), -1, (5,), ((13, 58), (9, 33), (2, 8), (11, 80), (3, 6), (0, 59), (7, 83))]
+short transaction
+2020-04-28 21:23:49.964310+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 46, 962634, tzinfo=datetime.timezone.utc), -1, (5, 4, 12, 7, 9, 14), ((9, 24), (8, 70), (10, 4))]
+long transaction
+2020-04-28 21:23:50.973990+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 49, 972291, tzinfo=datetime.timezone.utc), -1, (10, 9, 8), ((8, 37), (10, 98), (7, 33))]
+short transaction
+2020-04-28 21:23:52.974738+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 51, 972551, tzinfo=datetime.timezone.utc), -1, (5,), ((0, 2), (6, 94), (2, 88), (5, 21))]
+short transaction
+2020-04-28 21:23:53.965603+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 50, 963632, tzinfo=datetime.timezone.utc), -1, (12, 1), ((6, 85), (2, 24), (1, 52), (5, 52), (3, 30), (7, 77))]
+long transaction
+2020-04-28 21:23:54.974763+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 53, 972584, tzinfo=datetime.timezone.utc), -1, (1, 11, 14, 2, 6), ((12, 19), (5, 20))]
+short transaction
+2020-04-28 21:23:58.975818+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 57, 974125, tzinfo=datetime.timezone.utc), -1, (1, 8, 2, 7, 3, 13, 6), ((10, 76), (8, 51))]
+short transaction
+2020-04-28 21:23:59.967171+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 56, 965098, tzinfo=datetime.timezone.utc), -1, (4, 0, 6, 1), ((11, 58), (8, 84), (7, 28))]
+long transaction
+2020-04-28 21:24:00.976149+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 59, 975150, tzinfo=datetime.timezone.utc), -1, (12, 10, 14, 1, 3, 7, 13), ((8, 100), (5, 67), (9, 50), (6, 44), (1, 77), (7, 58))]
+short transaction
+2020-04-28 21:24:01.967640+00:00 [datetime.datetime(2020, 4, 28, 21, 23, 58, 965842, tzinfo=datetime.timezone.utc), -1, (11, 10, 6), ((12, 13), (14, 80), (13, 93), (7, 58))]
+long transaction
+2020-04-28 21:24:03.967258+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 0, 966176, tzinfo=datetime.timezone.utc), -1, (0, 13, 12, 8), ((7, 51), (5, 93), (4, 79), (1, 53), (14, 35), (10, 18), (11, 67))]
+long transaction
+2020-04-28 21:24:05.968949+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 2, 967477, tzinfo=datetime.timezone.utc), -1, (5, 6), ((14, 3), (5, 83), (1, 79))]
+long transaction
+2020-04-28 21:24:06.977009+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 5, 975931, tzinfo=datetime.timezone.utc), -1, (0, 5, 13, 6), ((2, 16), (13, 97))]
+short transaction
+2020-04-28 21:24:07.969400+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 4, 968009, tzinfo=datetime.timezone.utc), -1, (1, 14, 13, 5, 10, 11, 0), ((8, 57), (4, 72), (6, 85), (11, 43), (10, 46), (1, 9))]
+long transaction
+2020-04-28 21:24:08.978681+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 7, 976373, tzinfo=datetime.timezone.utc), -1, (9, 7, 11), ((7, 51), (10, 57), (3, 15), (2, 87), (0, 99), (12, 56), (8, 27))]
+short transaction
+2020-04-28 21:24:09.969841+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 6, 968032, tzinfo=datetime.timezone.utc), -1, (9, 7, 3, 0, 1, 12, 14), ((11, 79),)]
+long transaction
+2020-04-28 21:24:11.971301+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 8, 968676, tzinfo=datetime.timezone.utc), -1, (4, 8, 1, 11, 0), ((8, 48), (11, 21), (4, 46), (9, 18), (6, 56), (12, 99), (2, 75))]
+long transaction
+2020-04-28 21:24:12.979091+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 11, 977285, tzinfo=datetime.timezone.utc), -1, (1, 2, 3, 9, 14, 5), ((14, 85), (13, 69))]
+short transaction
+2020-04-28 21:24:15.971519+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 12, 970114, tzinfo=datetime.timezone.utc), -1, (6, 10, 0, 7, 13), ((7, 41), (1, 22), (13, 31), (14, 4))]
+long transaction
+2020-04-28 21:24:16.979054+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 15, 977502, tzinfo=datetime.timezone.utc), -1, (0, 7, 12, 3), ((7, 47), (8, 60), (14, 54), (4, 34))]
+short transaction
+2020-04-28 21:24:17.972431+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 14, 970942, tzinfo=datetime.timezone.utc), -1, (9, 4, 12, 0, 3), ((9, 36), (12, 66), (10, 39), (1, 83), (4, 6), (14, 88), (3, 78))]
+long transaction
+2020-04-28 21:24:18.980741+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 17, 978414, tzinfo=datetime.timezone.utc), -1, (14, 0), ((4, 66), (11, 65), (0, 56), (7, 14), (10, 35), (3, 86))]
+short transaction
+2020-04-28 21:24:19.972504+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 16, 971075, tzinfo=datetime.timezone.utc), -1, (14,), ((0, 41),)]
+long transaction
+2020-04-28 21:24:20.983037+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 19, 978486, tzinfo=datetime.timezone.utc), -1, (4, 11, 5, 7, 6, 9, 2), ((1, 89), (0, 79), (10, 65), (5, 61), (12, 90))]
+short transaction
+2020-04-28 21:24:21.973107+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 18, 971765, tzinfo=datetime.timezone.utc), -1, (0,), ((4, 75), (3, 25), (12, 68))]
+long transaction
+2020-04-28 21:24:22.980650+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 21, 979079, tzinfo=datetime.timezone.utc), -1, (4, 8), ((6, 86), (5, 98))]
+short transaction
+2020-04-28 21:24:23.973505+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 20, 972066, tzinfo=datetime.timezone.utc), -1, (6, 13, 12), ((14, 63), (8, 100), (9, 3), (12, 55), (6, 61))]
+long transaction
+2020-04-28 21:24:27.974289+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 24, 972833, tzinfo=datetime.timezone.utc), -1, (1, 10, 11, 4, 9), ((10, 98), (5, 1), (12, 34), (9, 18), (3, 5))]
+long transaction
+2020-04-28 21:24:28.983619+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 27, 981270, tzinfo=datetime.timezone.utc), -1, (12, 7, 11), ((2, 38), (1, 83))]
+short transaction
+2020-04-28 21:24:33.975840+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 30, 974408, tzinfo=datetime.timezone.utc), -1, (12, 1), ((14, 77), (6, 2), (12, 7), (7, 18), (4, 4), (3, 61))]
+long transaction
+2020-04-28 21:24:35.976163+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 32, 974623, tzinfo=datetime.timezone.utc), -1, (8, 10, 3, 7, 5, 0), ((9, 65), (4, 54), (12, 71), (10, 5), (8, 7), (2, 35), (1, 64))]
+long transaction
+2020-04-28 21:24:37.976920+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 34, 975570, tzinfo=datetime.timezone.utc), -1, (0, 2, 6, 12, 3, 5, 1), ((3, 95), (7, 62), (12, 21), (8, 39), (5, 47))]
+long transaction
+2020-04-28 21:24:38.985383+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 37, 983901, tzinfo=datetime.timezone.utc), -1, (11, 13, 6, 5), ((5, 69), (12, 4), (8, 24), (7, 10), (10, 71), (0, 52), (1, 16))]
+short transaction
+2020-04-28 21:24:41.978094+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 38, 976407, tzinfo=datetime.timezone.utc), -1, (12, 2, 14, 0, 10, 8, 9), ((14, 37), (2, 85), (6, 5))]
+long transaction
+2020-04-28 21:24:42.987197+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 41, 985076, tzinfo=datetime.timezone.utc), -1, (2, 8, 3, 0, 4, 1, 12), ((8, 87), (7, 70), (2, 28), (1, 31), (5, 55), (0, 93), (9, 2))]
+short transaction
+2020-04-28 21:24:44.987389+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 43, 985197, tzinfo=datetime.timezone.utc), -1, (2, 6, 3, 10, 5), ((7, 53), (12, 79), (3, 35))]
+short transaction
+2020-04-28 21:24:46.989442+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 45, 986138, tzinfo=datetime.timezone.utc), -1, (11, 8, 12, 4, 5, 6), ((2, 58), (3, 5))]
+short transaction
+2020-04-28 21:24:47.979708+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 44, 978413, tzinfo=datetime.timezone.utc), -1, (8, 13, 5, 3, 0, 1, 14), ((8, 31),)]
+long transaction
+2020-04-28 21:24:48.988035+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 47, 986688, tzinfo=datetime.timezone.utc), -1, (11, 14, 8, 4, 6, 12), ((14, 48),)]
+short transaction
+2020-04-28 21:24:49.982105+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 46, 978471, tzinfo=datetime.timezone.utc), -1, (6, 1, 11, 0, 5), ((8, 16), (9, 37), (14, 49), (1, 50), (5, 15))]
+long transaction
+2020-04-28 21:24:51.980588+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 48, 979060, tzinfo=datetime.timezone.utc), -1, (6, 14, 8, 0, 4, 1, 10), ((6, 59), (1, 46), (14, 50), (9, 26), (10, 2), (4, 12), (7, 15))]
+long transaction
+2020-04-28 21:24:52.989182+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 51, 987575, tzinfo=datetime.timezone.utc), -1, (7, 3, 0, 8, 10, 6), ((9, 30), (14, 74), (7, 16), (11, 44), (12, 20), (10, 66), (0, 51))]
+short transaction
+2020-04-28 21:24:53.981447+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 50, 979434, tzinfo=datetime.timezone.utc), -1, (6, 14, 11, 8, 4), ((4, 58), (13, 11), (3, 82))]
+long transaction
+2020-04-28 21:24:54.990260+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 53, 988435, tzinfo=datetime.timezone.utc), -1, (4, 5, 14, 11), ((11, 2), (6, 92), (0, 11))]
+short transaction
+2020-04-28 21:24:55.981649+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 52, 980205, tzinfo=datetime.timezone.utc), -1, (3, 12, 6), ((6, 44), (4, 53), (1, 37), (12, 49), (2, 93), (14, 4))]
+long transaction
+2020-04-28 21:24:56.990312+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 55, 988631, tzinfo=datetime.timezone.utc), -1, (1, 6), ((1, 4), (0, 86), (7, 59), (3, 97), (5, 26))]
+short transaction
+2020-04-28 21:24:57.983203+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 54, 981289, tzinfo=datetime.timezone.utc), -1, (12, 13, 1, 14, 9, 8), ((6, 18), (3, 61), (13, 62))]
+long transaction
+2020-04-28 21:25:00.991698+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 59, 989913, tzinfo=datetime.timezone.utc), -1, (2, 3, 8, 0), ((6, 62), (4, 3), (1, 4), (14, 81), (11, 29), (3, 11))]
+short transaction
+2020-04-28 21:25:01.981928+00:00 [datetime.datetime(2020, 4, 28, 21, 24, 58, 980496, tzinfo=datetime.timezone.utc), -1, (13, 10, 11), ((12, 51), (3, 37), (4, 4))]
+long transaction
+2020-04-28 21:25:02.992864+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 1, 990904, tzinfo=datetime.timezone.utc), -1, (3, 9, 0, 10), ((14, 45), (13, 60), (0, 14), (2, 12))]
+short transaction
+2020-04-28 21:25:03.982692+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 0, 980727, tzinfo=datetime.timezone.utc), -1, (2, 1, 3, 7, 5, 10, 8), ((7, 52), (2, 38), (11, 22))]
+long transaction
+2020-04-28 21:25:04.993501+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 3, 991668, tzinfo=datetime.timezone.utc), -1, (13, 11, 5, 7, 3, 10, 6), ((12, 96), (14, 43), (0, 84), (11, 66), (13, 19))]
+short transaction
+2020-04-28 21:25:05.982252+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 2, 980898, tzinfo=datetime.timezone.utc), -1, (12, 2), ((12, 62), (0, 90))]
+long transaction
+2020-04-28 21:25:07.982700+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 4, 981531, tzinfo=datetime.timezone.utc), -1, (4, 0, 5, 3, 14, 7, 9), ((7, 75), (4, 73), (6, 25), (1, 32), (14, 15))]
+long transaction
+2020-04-28 21:25:09.983301+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 6, 982139, tzinfo=datetime.timezone.utc), -1, (12, 3, 7, 9, 6, 2, 14), ((12, 91), (10, 85))]
+long transaction
+2020-04-28 21:25:11.984109+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 8, 982774, tzinfo=datetime.timezone.utc), -1, (12, 14, 10, 9, 2), ((11, 74), (7, 81), (14, 14), (1, 16))]
+long transaction
+2020-04-28 21:25:12.998112+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 11, 994081, tzinfo=datetime.timezone.utc), -1, (9,), ((9, 24), (1, 64), (4, 16), (5, 63), (10, 39), (12, 79), (0, 42))]
+short transaction
+2020-04-28 21:25:13.984508+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 10, 982785, tzinfo=datetime.timezone.utc), -1, (10, 8, 9, 14, 11), ((9, 99), (10, 18), (1, 81), (5, 100), (2, 62), (14, 83), (3, 29))]
+long transaction
+2020-04-28 21:25:14.995961+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 13, 994450, tzinfo=datetime.timezone.utc), -1, (4, 14, 8, 0, 7, 2, 1), ((3, 77), (10, 13), (8, 11), (1, 78), (14, 91))]
+short transaction
+2020-04-28 21:25:15.985165+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 12, 983154, tzinfo=datetime.timezone.utc), -1, (13, 9), ((3, 41), (12, 31), (1, 6))]
+long transaction
+2020-04-28 21:25:16.997142+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 15, 996136, tzinfo=datetime.timezone.utc), -1, (13, 12), ((2, 64), (11, 15), (7, 90), (14, 80), (13, 3))]
+short transaction
+2020-04-28 21:25:17.985501+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 14, 983993, tzinfo=datetime.timezone.utc), -1, (4, 5, 12, 0, 9, 11), ((12, 79), (9, 22), (0, 36), (10, 24), (14, 81), (5, 60), (11, 69))]
+long transaction
+2020-04-28 21:25:19.985226+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 16, 984191, tzinfo=datetime.timezone.utc), -1, (11, 7, 1, 10, 4, 5, 3), ((10, 91), (14, 70))]
+long transaction
+2020-04-28 21:25:25.002112+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 23, 998491, tzinfo=datetime.timezone.utc), -1, (4, 2, 0, 3), ((5, 99),)]
+short transaction
+2020-04-28 21:25:25.985773+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 22, 984662, tzinfo=datetime.timezone.utc), -1, (11, 4), ((3, 57), (13, 83))]
+long transaction
+2020-04-28 21:25:27.986843+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 24, 985146, tzinfo=datetime.timezone.utc), -1, (8, 5, 1, 7), ((12, 49), (11, 76), (4, 12), (7, 41), (3, 98), (5, 8))]
+long transaction
+2020-04-28 21:25:29.001667+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 27, 999808, tzinfo=datetime.timezone.utc), -1, (4, 14, 13, 10, 1), ((13, 52),)]
+short transaction
+2020-04-28 21:25:29.988055+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 26, 986608, tzinfo=datetime.timezone.utc), -1, (6, 8, 11, 13, 2, 5), ((9, 52), (7, 2), (11, 17), (6, 43))]
+long transaction
+2020-04-28 21:25:31.001350+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 30, 9, tzinfo=datetime.timezone.utc), -1, (8, 14, 5, 6, 3, 13), ((11, 43), (10, 96), (3, 9), (9, 48), (7, 2), (2, 93))]
+short transaction
+2020-04-28 21:25:33.989442+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 30, 987390, tzinfo=datetime.timezone.utc), -1, (11, 7, 10), ((0, 7), (7, 31))]
+long transaction
+2020-04-28 21:25:35.990054+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 32, 988281, tzinfo=datetime.timezone.utc), -1, (3, 7), ((10, 13), (9, 88), (3, 1))]
+long transaction
+2020-04-28 21:25:37.990711+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 34, 989221, tzinfo=datetime.timezone.utc), -1, (2, 3, 9, 6), ((13, 61),)]
+long transaction
+2020-04-28 21:25:39.004802+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 38, 3671, tzinfo=datetime.timezone.utc), -1, (13, 2), ((6, 94), (0, 77), (3, 64), (5, 16), (9, 91), (7, 27), (4, 32))]
+short transaction
+2020-04-28 21:25:39.990788+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 36, 989382, tzinfo=datetime.timezone.utc), -1, (3,), ((9, 5), (2, 58), (11, 41), (13, 17), (6, 67), (4, 23), (12, 26))]
+long transaction
+2020-04-28 21:25:41.005588+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 40, 3755, tzinfo=datetime.timezone.utc), -1, (8, 13), ((1, 99), (10, 5))]
+short transaction
+2020-04-28 21:25:41.990873+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 38, 989854, tzinfo=datetime.timezone.utc), -1, (1, 14, 3, 6, 4, 10, 7), ((7, 66), (6, 5), (10, 47), (2, 71), (8, 5), (0, 94), (13, 24))]
+long transaction
+2020-04-28 21:25:43.004936+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 42, 3838, tzinfo=datetime.timezone.utc), -1, (13,), ((8, 13),)]
+short transaction
+2020-04-28 21:25:43.992019+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 40, 990628, tzinfo=datetime.timezone.utc), -1, (12, 10, 9, 6, 0), ((0, 96), (10, 92), (4, 87), (5, 66))]
+long transaction
+2020-04-28 21:25:45.005870+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 44, 3986, tzinfo=datetime.timezone.utc), -1, (3, 1, 10, 4), ((14, 45), (1, 59), (5, 11), (2, 3), (8, 11))]
+short transaction
+2020-04-28 21:25:45.991967+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 42, 990947, tzinfo=datetime.timezone.utc), -1, (7, 6, 14, 4), ((2, 36), (6, 37), (4, 45), (1, 62), (14, 25))]
+long transaction
+2020-04-28 21:25:47.993646+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 44, 992389, tzinfo=datetime.timezone.utc), -1, (2, 1, 13, 0, 12), ((2, 77), (12, 93), (4, 83), (9, 99), (1, 8))]
+long transaction
+2020-04-28 21:25:49.007500+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 48, 5608, tzinfo=datetime.timezone.utc), -1, (10, 9, 6, 13, 0, 7, 12), ((11, 69), (3, 25))]
+short transaction
+2020-04-28 21:25:49.995230+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 46, 993084, tzinfo=datetime.timezone.utc), -1, (12, 4, 10, 8, 11, 3, 13), ((13, 32), (2, 36), (10, 39), (4, 1), (8, 72))]
+long transaction
+2020-04-28 21:25:51.996343+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 48, 993534, tzinfo=datetime.timezone.utc), -1, (5, 12, 8, 6, 0, 13), ((7, 25), (0, 53), (12, 70), (13, 45), (4, 38), (10, 36))]
+long transaction
+2020-04-28 21:25:53.008306+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 52, 6321, tzinfo=datetime.timezone.utc), -1, (12, 3, 6, 9, 4, 13), ((9, 96), (7, 2), (12, 49), (11, 29), (13, 9))]
+short transaction
+2020-04-28 21:25:53.995667+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 50, 994421, tzinfo=datetime.timezone.utc), -1, (4, 5, 8, 7, 0, 9), ((12, 59), (3, 58), (4, 44), (1, 59))]
+long transaction
+2020-04-28 21:25:55.008465+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 54, 6644, tzinfo=datetime.timezone.utc), -1, (5, 12, 8, 0), ((9, 58), (7, 24), (3, 32), (5, 36), (6, 80), (12, 64))]
+short transaction
+2020-04-28 21:25:57.011585+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 56, 7350, tzinfo=datetime.timezone.utc), -1, (11, 13, 2, 14, 4, 1), ((9, 92), (12, 77), (11, 33), (3, 87))]
+short transaction
+2020-04-28 21:25:57.996874+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 54, 995503, tzinfo=datetime.timezone.utc), -1, (9, 4, 10, 3, 14, 0), ((0, 53), (14, 27), (2, 90), (11, 97), (3, 56), (13, 56))]
+long transaction
+2020-04-28 21:25:59.009505+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 58, 7844, tzinfo=datetime.timezone.utc), -1, (8, 0, 13, 12, 6, 2), ((0, 44), (13, 17), (12, 80))]
+short transaction
+2020-04-28 21:25:59.997093+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 56, 995629, tzinfo=datetime.timezone.utc), -1, (6, 7, 11, 10, 1, 0), ((1, 1), (6, 98), (10, 2), (0, 33))]
+long transaction
+2020-04-28 21:26:01.011537+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 0, 9065, tzinfo=datetime.timezone.utc), -1, (0, 1), ((1, 16), (3, 56))]
+short transaction
+2020-04-28 21:26:01.998412+00:00 [datetime.datetime(2020, 4, 28, 21, 25, 58, 996540, tzinfo=datetime.timezone.utc), -1, (2, 11, 5, 0, 8), ((3, 67), (5, 20), (13, 68), (0, 50), (6, 18), (9, 14), (2, 61))]
+long transaction
+2020-04-28 21:26:03.010671+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 2, 9383, tzinfo=datetime.timezone.utc), -1, (10, 8, 4, 3, 9), ((6, 78), (13, 6), (1, 34), (0, 100), (9, 10), (7, 96))]
+short transaction
+2020-04-28 21:26:03.998336+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 0, 996577, tzinfo=datetime.timezone.utc), -1, (7,), ((4, 72), (14, 70))]
+long transaction
+2020-04-28 21:26:06.386006+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 2, 996708, tzinfo=datetime.timezone.utc), -1, (13, 0, 10, 7), ((0, 32), (5, 48), (10, 97), (6, 5), (9, 29), (1, 34), (13, 29))]
+long transaction
+2020-04-28 21:26:07.387561+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 6, 10495, tzinfo=datetime.timezone.utc), -1, (1, 10, 8, 13), ((2, 90), (12, 56), (0, 7), (5, 53))]
+short transaction
+2020-04-28 21:26:09.999024+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 6, 997372, tzinfo=datetime.timezone.utc), -1, (13, 4, 2, 7), ((0, 56), (3, 44), (6, 1), (13, 83))]
+long transaction
+2020-04-28 21:26:11.999924+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 8, 998350, tzinfo=datetime.timezone.utc), -1, (2, 7, 9, 6, 8), ((0, 67), (9, 27), (6, 59))]
+long transaction
+2020-04-28 21:26:13.999908+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 10, 998769, tzinfo=datetime.timezone.utc), -1, (12, 0, 4, 13, 10), ((6, 67), (14, 47), (1, 5), (8, 91))]
+long transaction
+2020-04-28 21:26:15.017697+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 14, 13903, tzinfo=datetime.timezone.utc), -1, (11, 2, 13, 5), ((1, 25), (7, 37), (5, 24), (10, 89), (3, 73), (14, 9))]
+short transaction
+2020-04-28 21:26:16.001813+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 12, 999668, tzinfo=datetime.timezone.utc), -1, (3, 10), ((5, 13), (3, 6), (7, 89), (8, 100), (0, 67), (12, 99))]
+long transaction
+2020-04-28 21:26:17.015785+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 16, 14777, tzinfo=datetime.timezone.utc), -1, (0, 2, 12), ((3, 80), (13, 92), (2, 65))]
+short transaction
+2020-04-28 21:26:18.001431+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 14, 999743, tzinfo=datetime.timezone.utc), -1, (2,), ((3, 15), (12, 75), (7, 23))]
+long transaction
+2020-04-28 21:26:19.016424+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 18, 15312, tzinfo=datetime.timezone.utc), -1, (9, 13, 10, 11, 6, 5, 7), ((4, 74), (6, 70), (9, 83), (12, 68), (14, 78), (1, 61), (7, 76))]
+short transaction
+2020-04-28 21:26:22.001666+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 18, 999939, tzinfo=datetime.timezone.utc), -1, (7, 0, 4), ((3, 79), (6, 29), (14, 61), (10, 51))]
+long transaction
+2020-04-28 21:26:24.002014+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 21, 332, tzinfo=datetime.timezone.utc), -1, (11, 7, 8), ((7, 48), (0, 68), (6, 48), (13, 24), (12, 37), (8, 56))]
+long transaction
+2020-04-28 21:26:25.019812+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 24, 16976, tzinfo=datetime.timezone.utc), -1, (1, 4, 2, 0, 11, 7, 3), ((10, 78), (13, 17), (11, 60), (9, 37), (12, 48))]
+short transaction
+2020-04-28 21:26:26.001982+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 23, 542, tzinfo=datetime.timezone.utc), -1, (2, 1, 6, 9), ((12, 52), (9, 67), (8, 14), (4, 72), (5, 20))]
+long transaction
+2020-04-28 21:26:28.003110+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 25, 863, tzinfo=datetime.timezone.utc), -1, (6, 8, 1, 5), ((0, 79), (14, 68), (3, 84), (2, 57), (9, 94), (1, 25))]
+long transaction
+2020-04-28 21:26:29.019361+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 28, 18066, tzinfo=datetime.timezone.utc), -1, (12, 9, 5, 1, 0), ((10, 11), (2, 80))]
+short transaction
+2020-04-28 21:26:30.002488+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 27, 1219, tzinfo=datetime.timezone.utc), -1, (12, 3, 5, 4, 0, 14, 2), ((5, 80), (14, 23), (8, 9), (9, 32), (12, 92))]
+long transaction
+2020-04-28 21:26:31.020567+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 30, 18444, tzinfo=datetime.timezone.utc), -1, (14, 2, 1), ((5, 76), (4, 94), (11, 51))]
+short transaction
+2020-04-28 21:26:32.002878+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 29, 1424, tzinfo=datetime.timezone.utc), -1, (4, 7, 12, 3, 8, 14, 2), ((4, 29), (12, 36), (11, 65), (14, 55), (8, 51), (13, 18), (10, 76))]
+long transaction
+2020-04-28 21:26:33.108884+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 33, 76970, tzinfo=datetime.timezone.utc), -1, (13, 6, 12, 11, 2, 3, 4), ((1, 58), (12, 83))]
+short transaction
+2020-04-28 21:26:34.002873+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 31, 1618, tzinfo=datetime.timezone.utc), -1, (14, 12, 0, 11, 7), ((8, 55), (5, 9), (13, 34), (2, 44))]
+long transaction
+2020-04-28 21:26:35.021310+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 34, 19815, tzinfo=datetime.timezone.utc), -1, (8, 14, 13, 10), ((13, 56), (0, 36), (10, 31), (4, 45), (11, 8), (9, 2), (2, 66))]
+short transaction
+2020-04-28 21:26:36.111555+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 33, 2169, tzinfo=datetime.timezone.utc), -1, (8, 13, 4, 9, 0, 3), ((10, 94), (8, 40), (7, 65), (14, 53), (11, 52), (4, 95))]
+long transaction
+2020-04-28 21:26:37.024115+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 36, 21796, tzinfo=datetime.timezone.utc), -1, (8, 10), ((12, 65), (0, 89), (13, 22), (10, 71), (6, 17), (3, 72))]
+short transaction
+2020-04-28 21:26:38.003557+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 35, 2360, tzinfo=datetime.timezone.utc), -1, (12, 14), ((10, 71), (0, 85), (12, 8), (2, 42), (5, 69), (11, 17))]
+long transaction
+2020-04-28 21:26:39.024351+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 38, 22541, tzinfo=datetime.timezone.utc), -1, (8, 7, 6, 4, 2), ((7, 3), (3, 4))]
+short transaction
+2020-04-28 21:26:42.005798+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 39, 4406, tzinfo=datetime.timezone.utc), -1, (6, 2), ((11, 57), (4, 70), (0, 82), (12, 58), (10, 95), (9, 99), (1, 8))]
+long transaction
+2020-04-28 21:26:43.024065+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 42, 22743, tzinfo=datetime.timezone.utc), -1, (2, 6, 7, 9, 13, 12, 10), ((3, 82), (7, 5), (9, 51), (13, 60))]
+short transaction
+2020-04-28 21:26:44.005626+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 41, 4334, tzinfo=datetime.timezone.utc), -1, (2, 1), ((6, 74),)]
+long transaction
+2020-04-28 21:26:45.024548+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 44, 23593, tzinfo=datetime.timezone.utc), -1, (3, 9, 10, 6), ((9, 35), (13, 60))]
+short transaction
+2020-04-28 21:26:46.007431+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 43, 5118, tzinfo=datetime.timezone.utc), -1, (14, 7, 0, 12, 6), ((9, 66),)]
+long transaction
+2020-04-28 21:26:47.028572+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 46, 24384, tzinfo=datetime.timezone.utc), -1, (1, 14, 4, 11, 12), ((9, 62), (11, 14), (10, 39), (0, 30), (13, 34), (1, 23), (3, 57))]
+short transaction
+2020-04-28 21:26:48.007028+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 45, 5598, tzinfo=datetime.timezone.utc), -1, (7, 14, 11), ((12, 75), (10, 85))]
+long transaction
+2020-04-28 21:26:49.028489+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 48, 25000, tzinfo=datetime.timezone.utc), -1, (6, 3), ((13, 19), (5, 12), (12, 30), (0, 65), (2, 61))]
+short transaction
+2020-04-28 21:26:52.009025+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 49, 6547, tzinfo=datetime.timezone.utc), -1, (2, 3, 8, 6, 5, 13, 7), ((4, 73), (8, 56), (2, 17), (5, 61), (1, 10))]
+long transaction
+2020-04-28 21:26:53.027907+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 52, 25992, tzinfo=datetime.timezone.utc), -1, (3, 4, 8), ((11, 16), (3, 59), (1, 40), (5, 68))]
+short transaction
+2020-04-28 21:26:56.008208+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 53, 6901, tzinfo=datetime.timezone.utc), -1, (14, 11, 0, 9), ((8, 76), (1, 84))]
+long transaction
+2020-04-28 21:26:57.028179+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 56, 27157, tzinfo=datetime.timezone.utc), -1, (12, 5, 1, 4, 8, 0), ((4, 30), (2, 86), (10, 83), (13, 23), (1, 34), (11, 63))]
+short transaction
+2020-04-28 21:26:58.008709+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 55, 7632, tzinfo=datetime.timezone.utc), -1, (3, 5, 14, 4, 9), ((14, 66), (12, 88), (7, 45), (4, 36))]
+long transaction
+2020-04-28 21:27:00.012345+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 57, 8234, tzinfo=datetime.timezone.utc), -1, (13, 9, 5), ((3, 52), (10, 90))]
+long transaction
+2020-04-28 21:27:01.030375+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 0, 28309, tzinfo=datetime.timezone.utc), -1, (2, 9, 4, 6, 3), ((3, 32),)]
+short transaction
+2020-04-28 21:27:02.010090+00:00 [datetime.datetime(2020, 4, 28, 21, 26, 59, 8493, tzinfo=datetime.timezone.utc), -1, (6, 2, 10, 7, 12, 9), ((5, 48), (7, 67))]
+long transaction
+2020-04-28 21:27:04.011104+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 1, 9432, tzinfo=datetime.timezone.utc), -1, (0, 13, 11, 6, 9, 5), ((5, 2), (9, 20), (14, 6))]
+long transaction
+2020-04-28 21:27:05.030892+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 4, 29059, tzinfo=datetime.timezone.utc), -1, (10, 7, 8, 2, 0, 5, 3), ((12, 70), (2, 24), (3, 52))]
+short transaction
+2020-04-28 21:27:10.014574+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 7, 13263, tzinfo=datetime.timezone.utc), -1, (6, 2, 0, 4, 9), ((14, 100), (11, 45), (7, 53), (0, 40))]
+long transaction
+2020-04-28 21:27:11.032441+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 10, 31502, tzinfo=datetime.timezone.utc), -1, (3, 0, 9), ((10, 79),)]
+short transaction
+2020-04-28 21:27:12.015552+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 9, 13834, tzinfo=datetime.timezone.utc), -1, (11, 9, 10, 6, 0), ((12, 7), (4, 85), (14, 45), (0, 55))]
+long transaction
+2020-04-28 21:27:13.032633+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 12, 31507, tzinfo=datetime.timezone.utc), -1, (0, 13, 9), ((14, 73), (7, 19), (0, 10))]
+short transaction
+2020-04-28 21:27:14.015966+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 11, 14489, tzinfo=datetime.timezone.utc), -1, (13, 0, 8, 7), ((2, 26), (3, 4), (12, 31))]
+long transaction
+2020-04-28 21:27:15.033435+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 14, 31917, tzinfo=datetime.timezone.utc), -1, (10, 1, 11, 14, 12), ((4, 79), (10, 67))]
+short transaction
+2020-04-28 21:27:17.035393+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 16, 32074, tzinfo=datetime.timezone.utc), -1, (4, 12, 11), ((1, 29), (9, 15), (7, 80), (8, 75), (2, 90))]
+short transaction
+2020-04-28 21:27:18.016778+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 15, 14888, tzinfo=datetime.timezone.utc), -1, (1, 11, 10, 0, 2), ((6, 92), (2, 40), (11, 96), (12, 56), (9, 22), (4, 79))]
+long transaction
+2020-04-28 21:27:19.034056+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 18, 32769, tzinfo=datetime.timezone.utc), -1, (3, 9, 6, 10, 0, 1), ((11, 94),)]
+short transaction
+2020-04-28 21:27:20.016529+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 17, 15447, tzinfo=datetime.timezone.utc), -1, (13, 6), ((11, 100), (5, 94), (10, 93))]
+long transaction
+2020-04-28 21:27:21.035417+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 20, 33461, tzinfo=datetime.timezone.utc), -1, (11, 12, 5, 8, 0, 9), ((7, 48), (1, 49), (13, 100), (2, 89), (0, 84), (6, 15), (8, 55))]
+short transaction
+2020-04-28 21:27:22.017713+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 19, 16056, tzinfo=datetime.timezone.utc), -1, (12, 0, 1, 3), ((1, 54), (13, 24))]
+long transaction
+2020-04-28 21:27:23.035064+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 22, 33659, tzinfo=datetime.timezone.utc), -1, (1, 0, 5, 2, 12, 9, 11), ((13, 17), (1, 54), (9, 37))]
+short transaction
+2020-04-28 21:27:24.018440+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 21, 16493, tzinfo=datetime.timezone.utc), -1, (8, 10, 13, 9, 4, 12), ((1, 27),)]
+long transaction
+2020-04-28 21:27:28.019693+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 25, 17787, tzinfo=datetime.timezone.utc), -1, (4, 7, 1, 14, 8, 3, 12), ((10, 94), (0, 63), (2, 80))]
+long transaction
+2020-04-28 21:27:29.035817+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 28, 34650, tzinfo=datetime.timezone.utc), -1, (11, 4, 1, 12, 10, 2), ((14, 99), (6, 88), (1, 88), (2, 56), (9, 84), (8, 6), (5, 48))]
+short transaction
+2020-04-28 21:27:30.284322+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 27, 18167, tzinfo=datetime.timezone.utc), -1, (2, 1, 3), ((1, 99), (7, 72))]
+long transaction
+2020-04-28 21:27:32.020304+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 29, 18858, tzinfo=datetime.timezone.utc), -1, (14, 3), ((8, 9),)]
+long transaction
+2020-04-28 21:27:33.041723+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 32, 36260, tzinfo=datetime.timezone.utc), -1, (13, 6, 11, 9, 10, 5), ((10, 94),)]
+short transaction
+2020-04-28 21:27:34.021303+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 31, 19484, tzinfo=datetime.timezone.utc), -1, (1, 9, 10), ((12, 29), (0, 99), (13, 94))]
+long transaction
+2020-04-28 21:27:35.037733+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 34, 36261, tzinfo=datetime.timezone.utc), -1, (0, 4, 8, 10, 7, 1), ((0, 29), (14, 33), (11, 9), (12, 21), (1, 88), (10, 96), (4, 20))]
+short transaction
+2020-04-28 21:27:36.022054+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 33, 20095, tzinfo=datetime.timezone.utc), -1, (12, 11, 4, 14), ((10, 34), (14, 33))]
+long transaction
+2020-04-28 21:27:37.038335+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 36, 37013, tzinfo=datetime.timezone.utc), -1, (10, 4, 13, 5, 11, 9), ((6, 84), (3, 51), (7, 21), (12, 43))]
+short transaction
+2020-04-28 21:27:38.022200+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 35, 20733, tzinfo=datetime.timezone.utc), -1, (7, 3, 12, 5, 4, 14), ((2, 5), (10, 59), (9, 88), (14, 5), (8, 46), (13, 44))]
+long transaction
+2020-04-28 21:27:40.023632+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 37, 22378, tzinfo=datetime.timezone.utc), -1, (6, 11, 12, 14, 13, 10), ((6, 24), (7, 82), (12, 83), (4, 64), (0, 47), (14, 69), (11, 79))]
+long transaction
+2020-04-28 21:27:41.039514+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 40, 37589, tzinfo=datetime.timezone.utc), -1, (3, 14, 12, 0), ((8, 39), (3, 56), (10, 76), (4, 57))]
+short transaction
+2020-04-28 21:27:42.023123+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 39, 21636, tzinfo=datetime.timezone.utc), -1, (6, 0, 9, 8, 4, 7), ((3, 21), (11, 92), (0, 81), (4, 73), (1, 37))]
+long transaction
+2020-04-28 21:27:43.039915+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 42, 38050, tzinfo=datetime.timezone.utc), -1, (2, 4, 14), ((0, 47),)]
+short transaction
+2020-04-28 21:27:44.024284+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 41, 22535, tzinfo=datetime.timezone.utc), -1, (10, 1, 8, 0, 12, 6), ((12, 10), (3, 87), (14, 79), (4, 86), (6, 43))]
+long transaction
+2020-04-28 21:27:45.039934+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 44, 38247, tzinfo=datetime.timezone.utc), -1, (13, 0, 14, 9), ((3, 81), (12, 67))]
+short transaction
+2020-04-28 21:27:48.024918+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 45, 23011, tzinfo=datetime.timezone.utc), -1, (5, 10), ((2, 42), (14, 55), (12, 39), (3, 95), (9, 98))]
+long transaction
+2020-04-28 21:27:49.040195+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 48, 38882, tzinfo=datetime.timezone.utc), -1, (14, 4), ((14, 4), (8, 27), (7, 45))]
+short transaction
+2020-04-28 21:27:50.025207+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 47, 23188, tzinfo=datetime.timezone.utc), -1, (13, 2, 4, 8, 1, 9), ((4, 32), (7, 51), (2, 3), (11, 47))]
+long transaction
+2020-04-28 21:27:52.024963+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 49, 23249, tzinfo=datetime.timezone.utc), -1, (12, 6), ((0, 47), (11, 12), (12, 86))]
+long transaction
+2020-04-28 21:27:53.041558+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 52, 40055, tzinfo=datetime.timezone.utc), -1, (0,), ((14, 18), (5, 5), (13, 97), (12, 96), (11, 67), (10, 27))]
+short transaction
+2020-04-28 21:27:54.025947+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 51, 24041, tzinfo=datetime.timezone.utc), -1, (13, 6, 7, 11, 2, 3), ((8, 36), (6, 14), (11, 2), (9, 9), (1, 69), (5, 25), (2, 8))]
+long transaction
+2020-04-28 21:27:55.041519+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 54, 40447, tzinfo=datetime.timezone.utc), -1, (12, 14, 10, 5, 0), ((14, 78), (8, 87), (7, 75), (5, 46))]
+short transaction
+2020-04-28 21:27:56.339057+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 53, 24564, tzinfo=datetime.timezone.utc), -1, (8, 13, 9, 7), ((13, 37), (8, 61), (7, 69), (11, 48))]
+long transaction
+2020-04-28 21:27:57.042807+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 56, 40858, tzinfo=datetime.timezone.utc), -1, (1, 3, 0, 6, 13), ((14, 44), (7, 80), (6, 1), (10, 47), (5, 13), (13, 70))]
+short transaction
+2020-04-28 21:27:58.027185+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 55, 25534, tzinfo=datetime.timezone.utc), -1, (7, 0), ((1, 62), (10, 84), (9, 94), (3, 83))]
+long transaction
+2020-04-28 21:27:59.042422+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 58, 41179, tzinfo=datetime.timezone.utc), -1, (5, 3, 9, 10, 14, 6, 8), ((12, 94), (7, 11), (9, 27), (2, 4), (10, 81), (6, 13))]
+short transaction
+2020-04-28 21:28:00.027678+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 57, 25779, tzinfo=datetime.timezone.utc), -1, (1, 7, 2, 11, 3, 10), ((13, 3),)]
+long transaction
+2020-04-28 21:28:02.027704+00:00 [datetime.datetime(2020, 4, 28, 21, 27, 59, 26464, tzinfo=datetime.timezone.utc), -1, (4, 12, 11, 1), ((9, 37),)]
+long transaction
+2020-04-28 21:28:04.028963+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 1, 27320, tzinfo=datetime.timezone.utc), -1, (10, 4, 3, 1, 8, 14, 5), ((14, 35), (1, 60), (9, 97), (3, 95), (12, 87), (8, 57), (5, 76))]
+long transaction
+2020-04-28 21:28:05.043433+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 4, 41930, tzinfo=datetime.timezone.utc), -1, (1,), ((3, 34), (8, 13), (6, 52), (4, 54))]
+short transaction
+2020-04-28 21:28:06.029216+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 3, 28084, tzinfo=datetime.timezone.utc), -1, (1,), ((1, 62), (7, 64), (12, 91), (13, 41), (5, 89))]
+long transaction
+2020-04-28 21:28:08.029959+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 5, 28472, tzinfo=datetime.timezone.utc), -1, (12, 8, 1, 7, 0, 5, 3), ((9, 13), (4, 68), (7, 93), (6, 69), (14, 31), (12, 75))]
+long transaction
+2020-04-28 21:28:09.044138+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 8, 42900, tzinfo=datetime.timezone.utc), -1, (11, 9, 13, 4, 6, 10), ((9, 45), (10, 84), (6, 70), (1, 68), (12, 89))]
+short transaction
+2020-04-28 21:28:10.030844+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 7, 28570, tzinfo=datetime.timezone.utc), -1, (10, 1, 13, 4), ((1, 96), (3, 35))]
+long transaction
+2020-04-28 21:28:14.030576+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 11, 29082, tzinfo=datetime.timezone.utc), -1, (1, 8, 3), ((9, 9), (4, 57), (0, 20), (1, 28), (11, 72))]
+long transaction
+2020-04-28 21:28:15.046500+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 14, 44546, tzinfo=datetime.timezone.utc), -1, (3, 4, 11, 8, 2, 14, 1), ((9, 76), (5, 6), (14, 63))]
+short transaction
+2020-04-28 21:28:16.030757+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 13, 29097, tzinfo=datetime.timezone.utc), -1, (14, 11, 10, 8, 0), ((5, 48), (12, 5), (8, 83), (10, 28), (14, 17), (3, 54))]
+long transaction
+2020-04-28 21:28:18.031187+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 15, 29537, tzinfo=datetime.timezone.utc), -1, (1, 6, 3, 5, 8, 10, 12), ((14, 15), (6, 38))]
+long transaction
+2020-04-28 21:28:19.046541+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 18, 45154, tzinfo=datetime.timezone.utc), -1, (1, 10, 6, 8, 3, 11), ((12, 62), (8, 47), (7, 7), (3, 25), (5, 17), (2, 81))]
+short transaction
+2020-04-28 21:28:22.032287+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 19, 30573, tzinfo=datetime.timezone.utc), -1, (8, 4, 3, 11, 12, 5, 1), ((2, 90), (6, 41))]
+long transaction
+2020-04-28 21:28:23.048309+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 22, 46251, tzinfo=datetime.timezone.utc), -1, (13, 6, 4), ((3, 9), (14, 73), (8, 47), (4, 1), (9, 83), (5, 25), (10, 59))]
+short transaction
+2020-04-28 21:28:26.035955+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 23, 34341, tzinfo=datetime.timezone.utc), -1, (5, 14, 7, 9, 12, 0), ((7, 63), (14, 55), (12, 3), (5, 9), (10, 59))]
+long transaction
+2020-04-28 21:28:30.036892+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 27, 34630, tzinfo=datetime.timezone.utc), -1, (5, 11, 3), ((3, 22), (12, 15), (1, 84), (10, 18), (8, 39), (4, 75))]
+long transaction
+2020-04-28 21:28:31.051591+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 30, 48866, tzinfo=datetime.timezone.utc), -1, (1,), ((11, 83), (14, 8), (1, 26), (13, 38), (7, 3))]
+short transaction
+2020-04-28 21:28:32.037244+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 29, 35620, tzinfo=datetime.timezone.utc), -1, (3, 2, 0), ((7, 2),)]
+long transaction
+2020-04-28 21:28:34.038580+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 31, 35642, tzinfo=datetime.timezone.utc), -1, (2, 4, 12, 10, 13, 0), ((1, 3), (10, 32), (3, 3), (6, 5), (8, 99), (11, 89))]
+long transaction
+2020-04-28 21:28:36.038571+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 33, 36234, tzinfo=datetime.timezone.utc), -1, (8, 14), ((1, 62), (4, 56), (11, 5), (8, 17))]
+long transaction
+2020-04-28 21:28:37.052413+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 36, 50540, tzinfo=datetime.timezone.utc), -1, (8, 7, 3), ((7, 30), (3, 83), (9, 22), (6, 49), (14, 86), (13, 72))]
+short transaction
+2020-04-28 21:28:38.038611+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 35, 37217, tzinfo=datetime.timezone.utc), -1, (1, 5, 11, 14, 9), ((12, 17), (3, 68), (6, 22), (0, 72), (14, 17), (2, 41))]
+long transaction
+2020-04-28 21:28:39.052473+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 38, 50579, tzinfo=datetime.timezone.utc), -1, (5, 9, 6, 2, 7), ((10, 88), (0, 92), (1, 72), (4, 32), (2, 28), (5, 69), (13, 33))]
+short transaction
+2020-04-28 21:28:40.038812+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 37, 37456, tzinfo=datetime.timezone.utc), -1, (10, 2, 4, 13, 8), ((1, 19),)]
+long transaction
+2020-04-28 21:28:41.052492+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 40, 50781, tzinfo=datetime.timezone.utc), -1, (1, 12, 5, 4), ((4, 37), (11, 7), (6, 11), (8, 93), (10, 11))]
+short transaction
+2020-04-28 21:28:42.039574+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 39, 37503, tzinfo=datetime.timezone.utc), -1, (2, 5, 3), ((14, 51), (11, 91), (8, 72), (6, 28), (12, 15))]
+long transaction
+2020-04-28 21:28:43.053193+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 42, 51532, tzinfo=datetime.timezone.utc), -1, (11, 2, 14, 7), ((12, 95), (8, 83))]
+short transaction
+2020-04-28 21:28:44.039607+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 41, 38496, tzinfo=datetime.timezone.utc), -1, (3, 12, 7, 13, 14), ((0, 78), (2, 11), (11, 56), (4, 70), (6, 37), (3, 4))]
+long transaction
+2020-04-28 21:28:45.053648+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 44, 51573, tzinfo=datetime.timezone.utc), -1, (2, 3, 4, 5), ((12, 35), (14, 19), (1, 34), (9, 94), (6, 17), (13, 74))]
+short transaction
+2020-04-28 21:28:46.040878+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 43, 39256, tzinfo=datetime.timezone.utc), -1, (5, 11, 10, 1), ((10, 100), (6, 8), (12, 43), (13, 47), (2, 81), (11, 74))]
+long transaction
+2020-04-28 21:28:47.053182+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 46, 51849, tzinfo=datetime.timezone.utc), -1, (5, 6, 10, 4, 7), ((6, 48), (12, 54), (5, 35), (3, 77), (7, 39))]
+short transaction
+2020-04-28 21:28:48.042001+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 45, 39687, tzinfo=datetime.timezone.utc), -1, (0, 1), ((4, 66), (13, 19), (7, 89))]
+long transaction
+2020-04-28 21:28:50.041783+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 47, 40207, tzinfo=datetime.timezone.utc), -1, (8, 12, 2, 7, 6), ((1, 77), (4, 45), (10, 70), (12, 41), (11, 62), (6, 74))]
+long transaction
+2020-04-28 21:28:51.053997+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 50, 52786, tzinfo=datetime.timezone.utc), -1, (6, 10, 2, 7, 1, 3, 9), ((9, 27), (7, 89), (2, 67))]
+short transaction
+2020-04-28 21:28:52.042355+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 49, 40337, tzinfo=datetime.timezone.utc), -1, (13, 10, 9, 3), ((12, 28), (6, 29), (11, 34), (5, 96), (4, 29))]
+long transaction
+2020-04-28 21:28:54.043065+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 51, 41046, tzinfo=datetime.timezone.utc), -1, (1, 9, 3, 14, 2, 0), ((11, 94), (10, 64), (6, 12), (0, 91), (3, 13))]
+long transaction
+2020-04-28 21:28:55.055871+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 54, 54060, tzinfo=datetime.timezone.utc), -1, (1, 0, 12, 10), ((14, 100), (1, 22), (9, 58), (6, 44), (13, 28), (4, 38))]
+short transaction
+2020-04-28 21:28:56.042364+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 53, 41198, tzinfo=datetime.timezone.utc), -1, (2, 11), ((9, 26), (2, 29), (3, 54))]
+long transaction
+2020-04-28 21:28:57.056506+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 56, 54333, tzinfo=datetime.timezone.utc), -1, (2, 13, 7, 14), ((13, 64), (9, 8))]
+short transaction
+2020-04-28 21:29:02.044792+00:00 [datetime.datetime(2020, 4, 28, 21, 28, 59, 43056, tzinfo=datetime.timezone.utc), -1, (14, 3, 6, 5), ((13, 58), (7, 98))]
+long transaction
+2020-04-28 21:29:03.064604+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 2, 61747, tzinfo=datetime.timezone.utc), -1, (9, 13), ((7, 3), (11, 67), (6, 48), (13, 61))]
+short transaction
+2020-04-28 21:29:04.045093+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 1, 43440, tzinfo=datetime.timezone.utc), -1, (11, 9, 3, 14), ((9, 79), (2, 99), (10, 53), (6, 99), (3, 3))]
+long transaction
+2020-04-28 21:29:05.063372+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 4, 62048, tzinfo=datetime.timezone.utc), -1, (10, 0, 13), ((14, 83), (10, 53), (5, 16), (4, 15), (9, 91), (11, 51), (6, 65))]
+short transaction
+2020-04-28 21:29:06.050010+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 3, 48647, tzinfo=datetime.timezone.utc), -1, (14, 2, 5), ((14, 88), (2, 80))]
+long transaction
+2020-04-28 21:29:08.051792+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 5, 49408, tzinfo=datetime.timezone.utc), -1, (10,), ((13, 99), (4, 46), (7, 47), (11, 77), (12, 7), (10, 39), (1, 90))]
+long transaction
+2020-04-28 21:29:09.064802+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 8, 63295, tzinfo=datetime.timezone.utc), -1, (4, 10, 2), ((9, 67), (10, 7), (8, 43))]
+short transaction
+2020-04-28 21:29:10.129247+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 7, 54964, tzinfo=datetime.timezone.utc), -1, (6, 7), ((9, 10), (12, 76), (6, 56), (14, 3), (8, 89), (7, 60), (2, 78))]
+long transaction
+2020-04-28 21:29:11.187244+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 10, 182105, tzinfo=datetime.timezone.utc), -1, (1, 11, 10, 14, 4), ((14, 60),)]
+short transaction
+2020-04-28 21:29:12.056832+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 9, 55824, tzinfo=datetime.timezone.utc), -1, (10, 14, 8, 0), ((8, 17), (12, 88), (14, 58), (6, 75), (0, 64), (9, 49))]
+long transaction
+2020-04-28 21:29:13.186367+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 12, 182484, tzinfo=datetime.timezone.utc), -1, (7, 13), ((10, 61), (8, 32), (0, 38))]
+short transaction
+2020-04-28 21:29:14.058526+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 11, 56647, tzinfo=datetime.timezone.utc), -1, (14, 12, 10, 2, 13, 6), ((9, 42), (0, 41))]
+long transaction
+2020-04-28 21:29:16.058645+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 13, 56681, tzinfo=datetime.timezone.utc), -1, (11,), ((13, 34), (11, 84), (4, 63))]
+long transaction
+2020-04-28 21:29:17.184999+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 16, 183733, tzinfo=datetime.timezone.utc), -1, (2, 9, 4, 6, 13, 1, 10), ((10, 16), (6, 36), (13, 75), (12, 22), (14, 4), (1, 90))]
+short transaction
+2020-04-28 21:29:18.058663+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 15, 56826, tzinfo=datetime.timezone.utc), -1, (10, 3, 14), ((13, 66), (10, 99), (12, 36), (0, 18), (5, 79))]
+long transaction
+2020-04-28 21:29:19.186120+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 18, 184332, tzinfo=datetime.timezone.utc), -1, (13, 2), ((14, 59), (1, 48))]
+short transaction
+2020-04-28 21:29:20.059570+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 17, 57341, tzinfo=datetime.timezone.utc), -1, (5, 0, 8, 4, 11, 12), ((4, 42), (13, 65), (14, 77), (1, 86))]
+long transaction
+2020-04-28 21:29:24.059990+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 21, 58132, tzinfo=datetime.timezone.utc), -1, (10, 14, 5, 2, 11, 8), ((11, 93), (9, 12), (8, 26))]
+long transaction
+2020-04-28 21:29:26.060095+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 23, 58575, tzinfo=datetime.timezone.utc), -1, (4, 9, 2, 13, 1, 11), ((1, 73),)]
+long transaction
+2020-04-28 21:29:27.189802+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 26, 186137, tzinfo=datetime.timezone.utc), -1, (13, 2, 3, 9), ((8, 44), (6, 81))]
+short transaction
+2020-04-28 21:29:28.060953+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 25, 59267, tzinfo=datetime.timezone.utc), -1, (6, 3, 7), ((12, 80), (14, 70))]
+long transaction
+2020-04-28 21:29:29.190243+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 28, 186621, tzinfo=datetime.timezone.utc), -1, (10, 8, 1, 2, 3, 4), ((9, 43), (11, 64), (3, 31))]
+short transaction
+2020-04-28 21:29:30.062610+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 27, 60147, tzinfo=datetime.timezone.utc), -1, (2, 4, 14), ((8, 72), (11, 66), (1, 83), (5, 46))]
+long transaction
+2020-04-28 21:29:32.062594+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 29, 60590, tzinfo=datetime.timezone.utc), -1, (13, 10, 1, 8, 11, 9, 7), ((7, 38), (2, 82), (5, 88), (0, 99), (1, 80))]
+long transaction
+2020-04-28 21:29:33.193309+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 32, 191251, tzinfo=datetime.timezone.utc), -1, (1, 14), ((8, 73),)]
+short transaction
+2020-04-28 21:29:35.199073+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 34, 196723, tzinfo=datetime.timezone.utc), -1, (9, 2, 10, 13, 1), ((14, 20), (5, 47), (2, 86), (1, 28), (4, 17))]
+short transaction
+2020-04-28 21:29:37.200604+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 36, 195921, tzinfo=datetime.timezone.utc), -1, (14, 1, 6, 9, 13, 3, 8), ((0, 25), (14, 10), (3, 76), (9, 32))]
+short transaction
+2020-04-28 21:29:38.063376+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 35, 61445, tzinfo=datetime.timezone.utc), -1, (11, 7, 12, 4, 8, 5), ((4, 67), (14, 33))]
+long transaction
+2020-04-28 21:29:40.064221+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 37, 61969, tzinfo=datetime.timezone.utc), -1, (4, 13, 5), ((5, 6),)]
+long transaction
+2020-04-28 21:29:41.200418+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 40, 196851, tzinfo=datetime.timezone.utc), -1, (1, 8, 6), ((4, 28), (0, 40), (6, 32))]
+short transaction
+2020-04-28 21:29:42.063745+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 39, 62412, tzinfo=datetime.timezone.utc), -1, (3, 2, 13), ((3, 53), (7, 76), (12, 84), (11, 36), (0, 66), (14, 12), (5, 40))]
+long transaction
+2020-04-28 21:29:43.198697+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 42, 197370, tzinfo=datetime.timezone.utc), -1, (3, 6, 4, 11, 2, 1, 0), ((3, 59), (5, 56), (14, 13))]
+short transaction
+2020-04-28 21:29:44.064898+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 41, 62785, tzinfo=datetime.timezone.utc), -1, (5, 13, 12, 3, 6, 4, 2), ((1, 22), (3, 17), (13, 94), (5, 97), (9, 51), (4, 47))]
+long transaction
+2020-04-28 21:29:45.198708+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 44, 197493, tzinfo=datetime.timezone.utc), -1, (12, 4, 0, 6, 2, 9), ((9, 67),)]
+short transaction
+2020-04-28 21:29:46.066949+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 43, 63052, tzinfo=datetime.timezone.utc), -1, (6, 10, 7, 11), ((1, 17), (3, 34), (13, 37), (7, 96), (6, 25))]
+long transaction
+2020-04-28 21:29:48.064628+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 45, 63384, tzinfo=datetime.timezone.utc), -1, (7, 1), ((7, 86),)]
+long transaction
+2020-04-28 21:29:49.201682+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 48, 198302, tzinfo=datetime.timezone.utc), -1, (4, 2, 0, 1), ((7, 10), (0, 98), (2, 68))]
+short transaction
+2020-04-28 21:29:50.065371+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 47, 63755, tzinfo=datetime.timezone.utc), -1, (0, 5, 11, 8), ((4, 46), (2, 40))]
+long transaction
+2020-04-28 21:29:51.201637+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 50, 198529, tzinfo=datetime.timezone.utc), -1, (7,), ((12, 73),)]
+short transaction
+2020-04-28 21:29:54.067405+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 51, 64212, tzinfo=datetime.timezone.utc), -1, (11,), ((14, 37), (2, 31))]
+long transaction
+2020-04-28 21:29:55.201334+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 54, 199439, tzinfo=datetime.timezone.utc), -1, (12, 2, 5, 8), ((9, 19), (3, 62), (8, 48), (13, 6), (0, 67), (7, 18), (14, 55))]
+short transaction
+2020-04-28 21:29:57.202495+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 56, 199600, tzinfo=datetime.timezone.utc), -1, (0, 1, 7, 3), ((1, 35),)]
+short transaction
+2020-04-28 21:29:58.068048+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 55, 65721, tzinfo=datetime.timezone.utc), -1, (6, 9), ((10, 80), (13, 65))]
+long transaction
+2020-04-28 21:29:59.201072+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 58, 199697, tzinfo=datetime.timezone.utc), -1, (10, 4, 5, 0, 8, 12), ((4, 15), (10, 63), (6, 48), (7, 5))]
+short transaction
+2020-04-28 21:30:00.067754+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 57, 66259, tzinfo=datetime.timezone.utc), -1, (0, 6, 2, 4, 10), ((0, 42), (8, 100), (11, 47), (13, 17), (10, 14), (2, 54))]
+long transaction
+2020-04-28 21:30:01.202327+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 0, 200403, tzinfo=datetime.timezone.utc), -1, (4, 8), ((6, 100), (0, 11))]
+short transaction
+2020-04-28 21:30:02.068748+00:00 [datetime.datetime(2020, 4, 28, 21, 29, 59, 67225, tzinfo=datetime.timezone.utc), -1, (13,), ((1, 55),)]
+long transaction
+2020-04-28 21:30:04.068833+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 1, 67692, tzinfo=datetime.timezone.utc), -1, (0, 10, 13, 1), ((3, 80), (5, 14))]
+long transaction
+2020-04-28 21:30:05.202803+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 4, 201478, tzinfo=datetime.timezone.utc), -1, (2, 8, 13, 3), ((6, 30), (5, 73), (13, 19))]
+short transaction
+2020-04-28 21:30:06.069830+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 3, 67973, tzinfo=datetime.timezone.utc), -1, (10, 6, 2), ((8, 64), (13, 15), (3, 43), (1, 40), (2, 65), (6, 29), (11, 65))]
+long transaction
+2020-04-28 21:30:07.203185+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 6, 201480, tzinfo=datetime.timezone.utc), -1, (12, 10, 11, 7), ((7, 51),)]
+short transaction
+2020-04-28 21:30:08.068941+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 5, 68160, tzinfo=datetime.timezone.utc), -1, (10, 9, 8, 6), ((10, 94), (4, 94), (8, 69), (3, 81), (2, 21), (1, 33), (14, 39))]
+long transaction
+2020-04-28 21:30:09.203004+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 8, 201571, tzinfo=datetime.timezone.utc), -1, (1, 2), ((1, 44), (10, 15), (14, 85), (9, 75))]
+short transaction
+2020-04-28 21:30:10.070593+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 7, 68515, tzinfo=datetime.timezone.utc), -1, (7,), ((12, 5),)]
+long transaction
+2020-04-28 21:30:11.204133+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 10, 202293, tzinfo=datetime.timezone.utc), -1, (12, 8, 0, 13, 2), ((12, 22), (1, 49), (6, 15), (3, 42), (14, 93), (10, 66), (13, 38))]
+short transaction
+2020-04-28 21:30:14.070794+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 11, 69507, tzinfo=datetime.timezone.utc), -1, (3, 4, 8), ((2, 64), (4, 95), (1, 72), (6, 22), (10, 57), (0, 24), (11, 18))]
+long transaction
+2020-04-28 21:30:17.207952+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 16, 204337, tzinfo=datetime.timezone.utc), -1, (10,), ((7, 26), (5, 96), (8, 6), (12, 67), (0, 49), (4, 99), (9, 33))]
+short transaction
+2020-04-28 21:30:18.072645+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 15, 70654, tzinfo=datetime.timezone.utc), -1, (8,), ((10, 62), (12, 52), (4, 58), (6, 7), (7, 88), (11, 69), (9, 50))]
+long transaction
+2020-04-28 21:30:20.073397+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 17, 71318, tzinfo=datetime.timezone.utc), -1, (14, 8, 0), ((8, 8), (13, 44), (4, 47), (10, 61), (12, 34))]
+long transaction
+2020-04-28 21:30:21.207902+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 20, 206051, tzinfo=datetime.timezone.utc), -1, (13, 3, 6, 11, 0, 7, 10), ((8, 82), (6, 1), (2, 19), (11, 38), (12, 14), (14, 20), (7, 31))]
+short transaction
+2020-04-28 21:30:22.073790+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 19, 71881, tzinfo=datetime.timezone.utc), -1, (0, 9, 2, 5), ((14, 37), (13, 66), (0, 3), (5, 6), (10, 39), (4, 41), (1, 8))]
+long transaction
+2020-04-28 21:30:24.074342+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 21, 72267, tzinfo=datetime.timezone.utc), -1, (0, 4, 6), ((5, 30), (2, 77), (6, 39), (3, 1), (4, 15), (11, 39), (1, 30))]
+long transaction
+2020-04-28 21:30:25.209030+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 24, 207674, tzinfo=datetime.timezone.utc), -1, (5, 10, 8), ((5, 25), (12, 48), (14, 8), (1, 16), (3, 10))]
+short transaction
+2020-04-28 21:30:26.074468+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 23, 72564, tzinfo=datetime.timezone.utc), -1, (13, 9, 8, 14), ((0, 26), (12, 81), (2, 85), (8, 12), (1, 9), (11, 53), (13, 99))]
+long transaction
+2020-04-28 21:30:27.210658+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 26, 208083, tzinfo=datetime.timezone.utc), -1, (8, 12, 1, 4, 7, 0, 5), ((11, 41),)]
+short transaction
+2020-04-28 21:30:28.077310+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 25, 72874, tzinfo=datetime.timezone.utc), -1, (3, 11, 4, 13, 0, 2, 10), ((11, 59), (13, 57), (4, 7), (14, 64), (12, 50), (6, 99), (8, 52))]
+long transaction
+2020-04-28 21:30:29.218510+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 28, 208473, tzinfo=datetime.timezone.utc), -1, (0, 1, 8, 10, 14, 4, 2), ((3, 77), (13, 95))]
+short transaction
+2020-04-28 21:30:32.207606+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 32, 119839, tzinfo=datetime.timezone.utc), datetime.datetime(2020, 4, 28, 21, 30, 32, 125825, tzinfo=datetime.timezone.utc), (4, 8, 0, 9, 2, 5, 14), ((0, 51), (13, 72), (12, 45), (7, 20), (4, 24))]
+long transaction
+2020-04-28 21:30:34.111683+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 31, 109719, tzinfo=datetime.timezone.utc), -1, (12, 0, 3, 13), ((5, 18), (8, 73))]
+long transaction
+2020-04-28 21:30:36.111244+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 33, 109845, tzinfo=datetime.timezone.utc), -1, (3, 14, 12, 2, 9, 8), ((7, 30), (14, 36), (2, 70))]
+long transaction
+2020-04-28 21:30:38.111241+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 35, 109952, tzinfo=datetime.timezone.utc), -1, (8, 7, 14), ((0, 39), (5, 92), (10, 19), (1, 75), (7, 97), (6, 44), (11, 55))]
+long transaction
+2020-04-28 21:30:40.112926+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 37, 110570, tzinfo=datetime.timezone.utc), -1, (14, 1, 12, 7), ((3, 26), (14, 79))]
+long transaction
+2020-04-28 21:30:42.112433+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 39, 111161, tzinfo=datetime.timezone.utc), -1, (8, 1), ((9, 81), (0, 100), (2, 73))]
+long transaction
+2020-04-28 21:30:44.113733+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 41, 111852, tzinfo=datetime.timezone.utc), -1, (13, 2), ((11, 3),)]
+long transaction
+2020-04-28 21:30:46.114815+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 43, 112876, tzinfo=datetime.timezone.utc), -1, (8, 13), ((8, 57), (9, 30))]
+long transaction
+2020-04-28 21:30:48.115533+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 45, 113777, tzinfo=datetime.timezone.utc), -1, (11, 1, 13, 12), ((9, 56), (6, 32), (2, 23), (14, 28), (7, 66), (1, 27))]
+long transaction
+2020-04-28 21:30:49.254814+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 48, 251139, tzinfo=datetime.timezone.utc), -1, (7, 8, 2, 13, 4, 5), ((14, 53), (7, 51), (10, 33), (11, 37), (4, 89), (6, 69), (2, 98))]
+short transaction
+2020-04-28 21:30:50.116510+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 47, 114406, tzinfo=datetime.timezone.utc), -1, (11, 5, 12, 13, 1, 6), ((3, 74), (13, 62), (9, 62), (10, 74), (6, 62))]
+long transaction
+2020-04-28 21:30:52.116437+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 49, 115187, tzinfo=datetime.timezone.utc), -1, (1, 12, 3, 5, 0), ((0, 28), (7, 20), (10, 76), (4, 14))]
+long transaction
+2020-04-28 21:30:57.257912+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 56, 253932, tzinfo=datetime.timezone.utc), -1, (0, 10, 6, 4, 13, 7, 3), ((5, 81), (14, 78), (0, 7), (3, 25), (10, 83), (12, 77), (11, 24))]
+short transaction
+2020-04-28 21:30:58.172523+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 55, 116441, tzinfo=datetime.timezone.utc), -1, (14, 10, 1, 5, 12), ((1, 56), (8, 17), (4, 84), (0, 35))]
+long transaction
+2020-04-28 21:30:59.256356+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 58, 254331, tzinfo=datetime.timezone.utc), -1, (2, 9, 11, 7), ((2, 99),)]
+short transaction
+2020-04-28 21:31:00.117728+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 57, 116619, tzinfo=datetime.timezone.utc), -1, (7, 9, 4), ((3, 81), (10, 37), (12, 53))]
+long transaction
+2020-04-28 21:31:01.256348+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 1, 256348, tzinfo=datetime.timezone.utc), -1, (2, 9, 11, 7), ((2, 99),)]
+
+2020-04-28 21:31:02.118679+00:00 [datetime.datetime(2020, 4, 28, 21, 30, 59, 117221, tzinfo=datetime.timezone.utc), -1, (14, 10, 8, 6, 11, 7, 13), ((1, 35),)]
+long transaction
+2020-04-28 21:31:04.118848+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 1, 117715, tzinfo=datetime.timezone.utc), -1, (13, 6, 11), ((8, 68), (3, 68), (6, 63), (10, 48), (11, 7))]
+long transaction
+2020-04-28 21:31:06.119754+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 3, 118522, tzinfo=datetime.timezone.utc), -1, (11, 1, 12, 10, 5), ((14, 21),)]
+long transaction
+2020-04-28 21:31:07.258063+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 6, 256405, tzinfo=datetime.timezone.utc), -1, (8, 3, 10, 14), ((8, 47), (9, 83))]
+short transaction
+2020-04-28 21:31:08.121796+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 5, 118705, tzinfo=datetime.timezone.utc), -1, (7, 10, 9), ((1, 67),)]
+long transaction
+2020-04-28 21:31:09.260262+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 8, 256944, tzinfo=datetime.timezone.utc), -1, (5, 8), ((14, 35), (12, 17), (0, 93), (10, 57))]
+short transaction
+2020-04-28 21:31:10.122704+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 7, 119407, tzinfo=datetime.timezone.utc), -1, (6, 4, 11, 7), ((2, 9), (14, 78), (8, 82), (0, 21), (4, 16), (6, 23))]
+long transaction
+2020-04-28 21:31:11.258955+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 10, 257389, tzinfo=datetime.timezone.utc), -1, (2, 9, 0, 8, 11), ((2, 9), (13, 58), (0, 13))]
+short transaction
+2020-04-28 21:31:13.261407+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 12, 257554, tzinfo=datetime.timezone.utc), -1, (8, 9, 1, 11, 10, 0, 12), ((3, 19), (4, 51), (7, 27), (5, 28), (10, 82), (14, 31))]
+short transaction
+2020-04-28 21:31:14.121740+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 11, 120052, tzinfo=datetime.timezone.utc), -1, (0, 6, 3, 11, 12), ((7, 50), (1, 86), (12, 58))]
+long transaction
+2020-04-28 21:31:15.230613+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 14, 775829, tzinfo=datetime.timezone.utc), -1, (0, 6, 3, 11, 12), ((7, 50), (1, 86), (12, 58))]
+
+2020-04-28 21:31:16.122849+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 13, 120780, tzinfo=datetime.timezone.utc), -1, (8, 7, 3, 10, 2, 0), ((5, 6), (7, 28), (8, 13), (10, 90), (4, 28))]
+long transaction
+2020-04-28 21:31:17.260526+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 16, 258686, tzinfo=datetime.timezone.utc), -1, (7, 12, 6, 14), ((2, 8),)]
+short transaction
+2020-04-28 21:31:18.229877+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 15, 120907, tzinfo=datetime.timezone.utc), -1, (13, 4, 0, 14, 2, 1, 10), ((8, 43), (4, 44), (0, 67), (2, 21))]
+long transaction
+2020-04-28 21:31:20.124068+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 17, 121884, tzinfo=datetime.timezone.utc), -1, (13, 7, 8, 11), ((12, 72), (11, 32), (7, 8))]
+long transaction
+2020-04-28 21:31:22.125699+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 19, 122513, tzinfo=datetime.timezone.utc), -1, (0,), ((1, 39), (14, 90))]
+long transaction
+2020-04-28 21:31:25.266409+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 24, 262077, tzinfo=datetime.timezone.utc), -1, (8, 0, 2, 12, 11), ((14, 23), (1, 30), (10, 72), (11, 70), (7, 21), (0, 9), (13, 9))]
+short transaction
+2020-04-28 21:31:26.126006+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 23, 124015, tzinfo=datetime.timezone.utc), -1, (12, 7, 5, 10, 6), ((6, 20), (1, 53))]
+long transaction
+2020-04-28 21:31:32.127531+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 29, 125835, tzinfo=datetime.timezone.utc), -1, (12, 14), ((5, 41),)]
+long transaction
+2020-04-28 21:31:34.128653+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 31, 127213, tzinfo=datetime.timezone.utc), -1, (10, 0, 9, 14, 1), ((13, 25), (9, 6), (3, 12), (1, 42), (5, 20), (8, 97))]
+long transaction
+2020-04-28 21:31:36.134057+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 33, 131691, tzinfo=datetime.timezone.utc), -1, (4, 14, 12, 8), ((7, 35), (2, 36))]
+long transaction
+2020-04-28 21:31:40.133318+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 37, 131901, tzinfo=datetime.timezone.utc), -1, (13,), ((13, 4), (12, 100), (0, 72))]
+long transaction
+2020-04-28 21:31:42.134176+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 39, 131995, tzinfo=datetime.timezone.utc), -1, (7, 14, 13, 4), ((10, 82), (6, 25), (4, 17), (2, 48), (14, 23))]
+long transaction
+2020-04-28 21:31:44.134649+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 41, 132759, tzinfo=datetime.timezone.utc), -1, (5,), ((13, 52), (3, 86), (11, 44), (5, 47), (7, 80), (0, 14))]
+long transaction
+2020-04-28 21:31:45.288627+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 44, 287241, tzinfo=datetime.timezone.utc), -1, (3, 9, 2), ((12, 88),)]
+short transaction
+2020-04-28 21:31:46.134367+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 43, 133372, tzinfo=datetime.timezone.utc), -1, (2, 0, 7, 8, 6, 1), ((11, 16), (9, 55), (4, 46))]
+long transaction
+2020-04-28 21:31:47.289632+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 46, 287567, tzinfo=datetime.timezone.utc), -1, (10, 3, 5, 2, 6, 11), ((5, 43), (1, 2), (0, 76), (3, 36), (6, 98), (13, 16))]
+short transaction
+2020-04-28 21:31:48.135869+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 45, 134041, tzinfo=datetime.timezone.utc), -1, (3, 5, 8, 7, 0), ((3, 5), (12, 66))]
+long transaction
+2020-04-28 21:31:49.289192+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 48, 287851, tzinfo=datetime.timezone.utc), -1, (13, 3, 5, 7), ((12, 71), (6, 60), (8, 44), (10, 58), (3, 39), (9, 33))]
+short transaction
+2020-04-28 21:31:50.135539+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 47, 134048, tzinfo=datetime.timezone.utc), -1, (10, 2, 9, 1, 0), ((0, 35), (14, 84))]
+long transaction
+2020-04-28 21:31:51.289572+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 50, 288132, tzinfo=datetime.timezone.utc), -1, (5, 8, 2, 1, 0, 12), ((3, 21), (4, 76))]
+short transaction
+2020-04-28 21:31:52.136511+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 49, 134587, tzinfo=datetime.timezone.utc), -1, (12, 13, 2, 8, 5), ((13, 12), (5, 57), (10, 48), (4, 81), (1, 86), (0, 83))]
+long transaction
+2020-04-28 21:31:53.290544+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 52, 289104, tzinfo=datetime.timezone.utc), -1, (7, 10, 4, 9), ((1, 8), (5, 81), (9, 50), (8, 34), (7, 11), (2, 35), (3, 46))]
+short transaction
+2020-04-28 21:31:54.136283+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 51, 134680, tzinfo=datetime.timezone.utc), -1, (8, 12, 11), ((5, 69), (12, 65), (10, 79), (2, 71))]
+long transaction
+2020-04-28 21:31:57.294007+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 56, 290137, tzinfo=datetime.timezone.utc), -1, (10,), ((4, 67), (6, 5), (0, 96), (12, 82), (9, 40), (7, 41))]
+short transaction
+2020-04-28 21:32:00.138773+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 57, 136418, tzinfo=datetime.timezone.utc), -1, (6, 1, 14), ((14, 56), (10, 59), (3, 44), (4, 48), (7, 5), (1, 92), (5, 18))]
+long transaction
+2020-04-28 21:32:01.291957+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 0, 290815, tzinfo=datetime.timezone.utc), -1, (6, 12, 3), ((14, 92), (4, 67), (13, 3), (5, 90), (0, 89), (7, 32), (12, 54))]
+short transaction
+2020-04-28 21:32:02.137887+00:00 [datetime.datetime(2020, 4, 28, 21, 31, 59, 136715, tzinfo=datetime.timezone.utc), -1, (13, 14, 2, 12, 5, 1), ((0, 23), (3, 92), (5, 49), (9, 49), (14, 47), (6, 61), (2, 94))]
+long transaction
+2020-04-28 21:32:03.293662+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 2, 292478, tzinfo=datetime.timezone.utc), -1, (6, 2, 7), ((5, 84), (8, 30))]
+short transaction
+2020-04-28 21:32:04.138880+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 1, 137370, tzinfo=datetime.timezone.utc), -1, (13, 12, 14, 3, 6, 5), ((6, 66), (1, 79))]
+long transaction
+2020-04-28 21:32:06.139968+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 3, 138078, tzinfo=datetime.timezone.utc), -1, (11, 14, 0, 2, 12), ((1, 48), (0, 40), (13, 41), (10, 72), (3, 6))]
+long transaction
+2020-04-28 21:32:07.294139+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 6, 292560, tzinfo=datetime.timezone.utc), -1, (1, 5), ((7, 81), (0, 91), (4, 24), (2, 47), (12, 55))]
+short transaction
+2020-04-28 21:32:10.140946+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 7, 139176, tzinfo=datetime.timezone.utc), -1, (3, 13, 12, 2, 4), ((9, 63), (6, 51))]
+long transaction
+2020-04-28 21:32:11.297505+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 10, 295163, tzinfo=datetime.timezone.utc), -1, (2, 10, 9, 5, 13, 7, 4), ((6, 96), (8, 14), (0, 9), (1, 38), (10, 14))]
+short transaction
+2020-04-28 21:32:12.141396+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 9, 139371, tzinfo=datetime.timezone.utc), -1, (12, 13, 4, 11, 8, 7), ((4, 98), (6, 67), (8, 6), (3, 20), (13, 50), (14, 12), (10, 9))]
+long transaction
+2020-04-28 21:32:16.142923+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 13, 140723, tzinfo=datetime.timezone.utc), -1, (1, 9, 12, 0), ((14, 71),)]
+long transaction
+2020-04-28 21:32:17.300822+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 16, 297125, tzinfo=datetime.timezone.utc), -1, (8, 4, 6, 1), ((3, 99),)]
+short transaction
+2020-04-28 21:32:18.143019+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 15, 141600, tzinfo=datetime.timezone.utc), -1, (5, 7, 3, 0, 2, 12, 13), ((0, 65),)]
+long transaction
+2020-04-28 21:32:22.145087+00:00 [datetime.datetime(2020, 4, 28, 21, 32, 19, 142615, tzinfo=datetime.timezone.utc), -1, (10, 13), ((10, 63), (13, 47), (0, 5), (6, 99), (7, 70))]
+long transaction

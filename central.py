@@ -24,11 +24,11 @@ import port
 data = [0 for x in range(15)]
 channel_0 = grpc.insecure_channel('localhost:50052')
 stub_0 = update_db_pb2_grpc.UpdateDBStub(channel_0)
-# channel_1 = grpc.insecure_channel('localhost:50053')
-# stub_1 = update_db_pb2_grpc.UpdateDBStub(channel_1)
-# channel_2 = grpc.insecure_channel('localhost:50054')
-# stub_2 = update_db_pb2_grpc.UpdateDBStub(channel_2)
-stubs = [stub_0, -1, -1]
+channel_1 = grpc.insecure_channel('localhost:50053')
+stub_1 = update_db_pb2_grpc.UpdateDBStub(channel_1)
+channel_2 = grpc.insecure_channel('localhost:50054')
+stub_2 = update_db_pb2_grpc.UpdateDBStub(channel_2)
+stubs = [stub_0, stub_1, stub_2]
 
 db = mysql.connector.connect(
     host="localhost",
@@ -168,8 +168,11 @@ def global_validation(trans, site, trans_type="", read_val=None):
         update_db(trans, -1, read_val, trans_type)
         rank_lock.release()
         for i in range(3):
-            if i != site and stubs[i] != -1:
+            # if i != site and stubs[i] != -1:
+            if stubs[i] != -1:
                 # update_db(trans, rank) #rpc call
+                # thread = threading.Thread(target=stubs[i].UpdateDB, args=((update_db_pb2.UpdateTransaction(transaction=pickle.dumps(trans), rank=assigned_rank)),))
+                # thread.start()
                 stubs[i].UpdateDB(update_db_pb2.UpdateTransaction(transaction=pickle.dumps(trans), rank=assigned_rank))
         # log_committed_transaction(trans, "from site: " + str(site))
         return global_validation_pb2.Result(result=True, rank=assigned_rank)
@@ -296,7 +299,7 @@ def init():
     """
     thread = threading.Thread(target=serve)
     thread.start()
-    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052)):
+    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052) and port.isOpen("localhost", 50053) and port.isOpen("localhost", 50054)):
         print("port not open!")
     process_long_transaction()
     process_short_transaction()

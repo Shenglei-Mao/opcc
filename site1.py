@@ -27,7 +27,7 @@ db = mysql.connector.connect(
     port="3306",
     user="root",
     passwd="nopassword",
-    database="opcc0"
+    database="opcc1"
 )
 cursor = db.cursor()
 
@@ -45,13 +45,13 @@ rank = 0
 
 
 def log_rejected_transaction(trans, trans_type=""):
-    f = open(".\\log\\rejected_transaction_site0.txt", "a")
+    f = open(".\\log\\rejected_transaction_site1.txt", "a")
     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n")
     f.close()
 
 
 def log_committed_transaction(trans, trans_type="", read_val=None):
-    f = open(".\\log\\committed_transaction_site0.txt", "a")
+    f = open(".\\log\\committed_transaction_site1.txt", "a")
     f.write(str(datetime.now(timezone.utc)) + " " + str(trans) + "\n" + trans_type + "\n" + "read_value:" + str(
         read_val) + "\n" + "db snap shot: " + str(data) + "\n")
     f.close()
@@ -132,7 +132,7 @@ def global_validation(trans):
     :param trans:
     :return:
     """
-    return stub.GlobalValidate(global_validation_pb2.Transaction(transaction=pickle.dumps(trans), init_site=0))
+    return stub.GlobalValidate(global_validation_pb2.Transaction(transaction=pickle.dumps(trans), init_site=1))
 
 
 def try_commit(trans, read_val, trans_type=""): #TODO add log here
@@ -146,8 +146,8 @@ def try_commit(trans, read_val, trans_type=""): #TODO add log here
     semi_committed_transaction_lock.acquire()
     semi_committed_transactions.remove(trans_tuple)
     semi_committed_transaction_lock.release()
-    if global_result:
-        update_db(trans, global_result.rank, read_val, trans_type)
+    # if global_result:
+    #     update_db(trans, global_result.rank, read_val, trans_type)
     return global_result.result
 
 
@@ -244,7 +244,7 @@ def serve():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
     update_db_pb2_grpc.add_UpdateDBServicer_to_server(
         UpdateDBServicer(), server)
-    server.add_insecure_port('[::]:50052')  # TODO change for site1 and site2
+    server.add_insecure_port('[::]:50053')  # TODO change for site1 and site2
     server.start()
     server.wait_for_termination()
 
@@ -257,7 +257,7 @@ def init():
     """
     thread = threading.Thread(target=serve)
     thread.start()
-    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052)):
+    while not (port.isOpen("localhost", 50051) and port.isOpen("localhost", 50052) and port.isOpen("localhost", 50053) and port.isOpen("localhost", 50054)):
         print("port not open!")
     process_long_transaction()
     process_short_transaction()
