@@ -1,4 +1,4 @@
-# Centralized Optimistic Concurrency Control
+# Centralized Optimistic Concurrency Controller
 ### Key algorithm
 ##### local-validation phase:<br />
 transaction local validate against 1. all the committed transaction that have end time later(strictly larger) than
